@@ -140,6 +140,7 @@ My goal is to write code that works — clean, scalable, and maintainable. I’m
 - OS: Linux (Kali/Ubuntu) · Windows
 
 
+
 ## 🎓 Certifications
 
 <p align="center">
@@ -286,6 +287,13 @@ end
 AZ305 --> Final([🏁 Graduation & Certifications])
 
 ```
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AndresContreras1034/snake/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+</p>
+
+
 
 <!-- GitHub Stats and Projects remain unchanged for now -->
 
