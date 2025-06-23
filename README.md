@@ -190,11 +190,7 @@ I'm a Systems Engineering student with a strong focus on **backend development**
   <img src="https://media.tenor.com/SVbG3gqVMBgAAAAj/kirby-wave.gif" width="100px" alt="Kirby waving" />
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-  <br>
-  <sub><em>Code. Break. Repeat.</em></sub>
-</div>
+
 
 
 ## 🎯 Learning Roadmap
@@ -211,17 +207,7 @@ graph TD;
   DevOps --> Projects[Capstone Projects]
 ```
 
----
 
-## 🛡️ Verified Badges
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CS50x-Harvard-8A1538?style=for-the-badge&logo=harvard&logoColor=white" />
-  <img src="https://img.shields.io/badge/Statistics_Diploma-UPC-orange?style=for-the-badge&logo=academia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Power_BI-Coming_Soon-yellow?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" />
-</p>
-
----
 
 <!-- GitHub Stats and Projects remain unchanged for now -->
 
