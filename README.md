@@ -123,6 +123,14 @@ My goal is to write code that works — clean, scalable, and maintainable. I’m
   <img src="https://media.tenor.com/SVbG3gqVMBgAAAAj/kirby-wave.gif" width="90px" alt="Kirby waving" />
 </p>
 
+## 🧰 Current Stack (2025)
+
+- Backend: Java · Python · Spring Boot · SQL
+- Frontend: HTML/CSS · JS (básico)
+- DevTools: Git · VSCode · Power BI · VirtualBox
+- OS: Linux (Kali/Ubuntu) · Windows
+
+
 ## 🎓 Certifications
 
 <p align="center">
