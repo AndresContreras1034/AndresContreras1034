@@ -3,37 +3,51 @@ title: Andrés Contreras | Backend · Automatización · Data
 description: Portafolio técnico de Andrés Contreras: Ingeniero de Sistemas en formación, especializado en desarrollo backend, automatización con Python y análisis de datos.
 -->
 
-<!-- Kirby en la esquina superior derecha -->
+<!-- Kirby flotando arriba a la derecha -->
 <p align="right">
-  <img src="https://i.ibb.co/7dDQ7d4X/Sin-t-tulo.png" width="100px" alt="Imagen de Kirby saludando con fondo blanco" />
+  <img src="https://i.ibb.co/7dDQ7d4X/Sin-t-tulo.png" width="100px" alt="Kirby saludando con fondo blanco" />
 </p>
 
-<h1 align="center">Andrés Contreras</h1>
+<!-- Nombre principal -->
+<h1 align="center">¡Hola! Soy <strong>Andrés Contreras</strong> 👋</h1>
+
 <p align="center">
-  🎓 Ingeniero de Sistemas en formación — Backend, automatización y análisis de datos
+  🎓 Ingeniero de Sistemas en formación | 🖥️ Backend · 🧠 Automatización · 📊 Análisis de Datos
 </p>
 
+<!-- Botones de contacto -->
 <p align="center">
   <a href="mailto:contrerandres001@gmail.com">
-    <img src="https://img.shields.io/badge/Contáctame-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Contáctame-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/AndresContreras1034">
-    <img src="https://img.shields.io/badge/GitHub-@AndresContreras1034-black?style=for-the-badge&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-AndresContreras1034-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="https://drive.google.com/your_cv_url_aqui" target="_blank">
-    <img src="https://img.shields.io/badge/Mi%20CV-Ver%20en%20PDF-blue?style=for-the-badge&logo=readme&logoColor=white" alt="CV">
+    <img src="https://img.shields.io/badge/CV-Ver%20Currículum-blue?style=for-the-badge&logo=readme&logoColor=white" alt="CV" />
   </a>
 </p>
 
+<!-- Reproductor de Spotify -->
+<p align="center">
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7pofG9kjEbLdaY3OkqP25m?utm_source=generator&theme=0" width="80%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
+</p>
+
+<!-- Contador de visitas -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AndresContreras1034&label=Profile%20views&color=grey&style=flat" alt="Visitas al perfil" />
 </p>
+
+<!-- Divider -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+</div>
 
 ---
 
 ## 👨‍💻 Sobre mí
 
-Soy un estudiante de Ingeniería de Sistemas apasionado por la automatización, el backend y el análisis de datos. Actualmente desarrollo proyectos personales usando Python, Java y herramientas de visualización como Power BI, mientras avanzo en certificaciones técnicas y universitarias.
+Apasionado por la tecnología y la resolución de problemas. Me enfoco en crear herramientas prácticas que automaticen tareas, analicen datos o brinden soluciones backend sólidas. Me encuentro en formación, pero ya con proyectos reales en marcha y en constante aprendizaje.
 
 ---
 
@@ -46,7 +60,7 @@ Soy un estudiante de Ingeniería de Sistemas apasionado por la automatización, 
   <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=white" />
 </p>
 
-### 🛠️ Herramientas y frameworks
+### 🛠️ Frameworks y herramientas
 <p align="center">
   <img src="https://img.shields.io/badge/Spring_Boot-black?style=flat&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-black?style=flat&logo=git&logoColor=white" />
@@ -75,13 +89,13 @@ Soy un estudiante de Ingeniería de Sistemas apasionado por la automatización, 
 ## 🛠️ Proyectos
 
 - **[✈️ Rastreador de vuelos baratos](https://github.com/AndresContreras1034/rastreador_vuelos)**  
-  `Python`, `SMTP`, `Requests`, `HTML parsing` — Automatiza búsqueda de vuelos BOG-YUL. Envía alertas al correo según umbral y formatea precios en COP con enlaces reales.
+  `Python`, `SMTP`, `Requests`, `HTML parsing` — Automatiza búsqueda de vuelos BOG-YUL. Envía alertas según umbral, enlaces limpios y convierte precios a COP.
 
 - **📊 Dashboard COVID-19 — Power BI** *(en desarrollo)*  
-  `Power BI`, `DAX`, `Datos abiertos` — Visualización interactiva con segmentación por departamento, evolución temporal y KPIs.
+  `Power BI`, `DAX`, `Open Data` — Visualización interactiva con filtros por departamentos, KPIs y evolución temporal.
 
 - **🔐 Generador de contraseñas seguras** *(prototipo)*  
-  `Java`, `GUI`, `Algoritmos de cifrado` — Aplicación multiplataforma para crear, cifrar y almacenar contraseñas personalizadas.
+  `Java`, `Interfaz gráfica`, `Cifrado` — App multiplataforma para crear y guardar contraseñas personalizadas.
 
 ---
 
@@ -95,16 +109,13 @@ Soy un estudiante de Ingeniería de Sistemas apasionado por la automatización, 
 
 ---
 
-## 🎧 Escuchando ahora
-
-[![Now Playing - Piel de Cordero](https://img.shields.io/badge/Now_Playing-Piel_de_Cordero-black?style=flat&logo=spotify&logoColor=1DB954)](https://open.spotify.com/track/7pofG9kjEbLdaY3OkqP25m)
-
----
-
+<!-- Kirby animado abajo -->
 <p align="center">
   <img src="https://media.tenor.com/SVbG3gqVMBgAAAAj/kirby-wave.gif" width="120px" alt="Kirby saludando" />
 </p>
 
+<!-- Footer animado -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </div>
+
