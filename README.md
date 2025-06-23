@@ -103,7 +103,6 @@ I'm a Systems Engineering student with a focus on **backend development**, **aut
 
 ---
 
-
 ## GitHub Stats
 
 <p align="center">
