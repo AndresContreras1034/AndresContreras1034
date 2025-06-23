@@ -1,27 +1,28 @@
-<!-- Kirby flotando arriba a la derecha -->
+<!-- Kirby floating at the top right -->
 <p align="right">
-  <img src="https://i.ibb.co/7dDQ7d4X/Sin-t-tulo.png" width="90px" alt="Kirby saludando" />
+  <img src="https://i.ibb.co/7dDQ7d4X/Sin-t-tulo.png" width="90px" alt="Kirby waving" />
 </p>
 
 <h1 align="center">Andrés Mendez</h1>
 
 <p align="center">
-  <strong>Ingeniero de Sistemas — 6.º semestre · 19 años</strong><br>
-  Backend · Automatización · Análisis de Datos
+  <strong>Systems Engineering Student — 6th semester · 19 years old</strong><br>
+  Backend · Automation · Data Analysis
 </p>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 </div>
 
 <p align="center">
   <a href="mailto:contrerandres001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contáctame-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/AndresContreras1034">
     <img src="https://img.shields.io/badge/GitHub-AndresContreras1034-black?style=for-the-badge&logo=github" />
   </a>
   <a href="https://drive.google.com/your_cv_url_aqui" target="_blank">
-    <img src="https://img.shields.io/badge/CV-Ver%20Currículum-blue?style=for-the-badge&logo=readme" />
+    <img src="https://img.shields.io/badge/CV-View%20Resume-blue?style=for-the-badge&logo=readme&logoColor=white" />
   </a>
 </p>
 
@@ -37,15 +38,15 @@
 
 ---
 
-## 🧠 Sobre mí
+## About Me
 
-Soy estudiante de Ingeniería de Sistemas con enfoque en desarrollo **backend**, **automatización** y **análisis de datos**. Disfruto construir herramientas útiles con **Python**, **Java** y **SQL**, y experimentar con APIs, dashboards interactivos y automatización. Actualmente en el 6.º semestre, activo en proyectos personales y certificaciones técnicas.
+I'm a Systems Engineering student with a focus on **backend development**, **automation**, and **data analysis**. I enjoy building useful tools with **Python**, **Java**, and **SQL**, and experimenting with APIs, dashboards, and automation scripts. Currently in my 6th semester, actively working on personal projects and technical certifications.
 
 ---
 
-## ⚙️ Tecnologías que uso
+## Technologies I Use
 
-### 🧰 Lenguajes
+### Programming Languages
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black" />
@@ -56,7 +57,7 @@ Soy estudiante de Ingeniería de Sistemas con enfoque en desarrollo **backend**,
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
 </p>
 
-### 🛠 Frameworks, herramientas y entornos
+### Frameworks, Tools & Environments
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
@@ -68,14 +69,14 @@ Soy estudiante de Ingeniería de Sistemas con enfoque en desarrollo **backend**,
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
 </p>
 
-### 🛡️ Seguridad y redes
+### Security & Networking
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Packet_Tracer-1BA0E2?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
-### 🗄️ Bases de datos
+### Databases
 
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -84,21 +85,30 @@ Soy estudiante de Ingeniería de Sistemas con enfoque en desarrollo **backend**,
 
 ---
 
-<!-- Kirby flotando arriba a la derecha en certificaciones -->
+<!-- Kirby waving in certifications -->
 <p align="right">
-  <img src="https://media.tenor.com/SVbG3gqVMBgAAAAj/kirby-wave.gif" width="90px" alt="Kirby saludando" />
+  <img src="https://media.tenor.com/SVbG3gqVMBgAAAAj/kirby-wave.gif" width="90px" alt="Kirby waving" />
 </p>
 
-## 📜 Certificaciones
+## Certifications
 
 <p align="center">
   <img src="https://img.shields.io/badge/CS50x-Harvard-8A1538?style=for-the-badge&logo=harvard&logoColor=white" />
-  <img src="https://img.shields.io/badge/Diplomado_Estad%C3%ADstica-UPC-orange?style=for-the-badge&logo=academia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Power_BI-Próximamente-yellow?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Statistics_Diploma-UPC-orange?style=for-the-badge&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Power_BI-Coming_Soon-yellow?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" />
 </p>
 
 ---
-## 📊 Estadísticas de GitHub
+
+## Connect with Me
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Discord-.afcm01-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</p>
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=AndresContreras1034&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
@@ -106,36 +116,35 @@ Soy estudiante de Ingeniería de Sistemas con enfoque en desarrollo **backend**,
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresContreras1034&layout=compact&theme=tokyonight" />
 </p>
 
+---
 
-## 💡 Proyectos destacados
+## Featured Projects
 
-### ✈️ [Rastreador de vuelos baratos](https://github.com/AndresContreras1034/rastreador_vuelos)
-Automatiza búsqueda de vuelos Bogotá–Montreal, convierte precios a COP, limpia enlaces y envía alertas por correo.  
+### ✈️ [Cheap Flight Tracker](https://github.com/AndresContreras1034/rastreador_vuelos)
+Automates Bogotá–Montreal flight searches, converts prices to COP, cleans links, and sends alerts via email.  
 `Python`, `SMTP`, `HTML parsing`, `TRM`, `Cron`
 
 ---
 
-### 📊 Dashboard COVID-19 — *(en desarrollo)*
-Visualización interactiva con evolución temporal, filtros por departamento y KPIs.  
+### 📊 COVID-19 Dashboard *(in progress)*
+Interactive visualization with time evolution, department filters, and KPIs.  
 `Power BI`, `Open Data`, `DAX`
 
 ---
 
-### 🔐 Generador de contraseñas seguras
-Prototipo con almacenamiento cifrado, validación y GUI en Java.  
-`Java`, `Swing`, `Cifrado`
+### 🔐 Secure Password Generator
+Prototype with encrypted storage, validation, and GUI in Java.  
+`Java`, `Swing`, `Encryption`
 
 ---
 
----
-
-<!-- Snake animation -->
+<!-- Snake animation (optional) -->
 <!--
 ![snake gif](https://github.com/AndresContreras1034/AndresContreras1034/blob/output/github-contribution-grid-snake.svg)
 -->
 
 <p align="center">
-  <img src="https://media.tenor.com/SVbG3gqVMBgAAAAj/kirby-wave.gif" width="100px" alt="Kirby saludando" />
+  <img src="https://media.tenor.com/SVbG3gqVMBgAAAAj/kirby-wave.gif" width="100px" alt="Kirby waving" />
 </p>
 
 <div align="center">
