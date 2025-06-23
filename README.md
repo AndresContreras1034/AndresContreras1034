@@ -11,8 +11,9 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+  <img src="https://cdn.discordapp.com/attachments/1150889243569299537/1386560623391019109/9d5dd5cd-49e8-4af9-890f-fb4a5e858343.png?ex=685a26b5&is=6858d535&hm=fd0943dc69396bd8c49cde0eccfeb77d510713dd166c1891e088136916c0fe6c&" alt="Banner Andrés Méndez" width="100%" />
 </div>
+
 
 ---
 
