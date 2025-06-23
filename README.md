@@ -95,6 +95,14 @@ Soy estudiante de Ingeniería de Sistemas con enfoque en desarrollo **backend**,
 </p>
 
 ---
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AndresContreras1034&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=AndresContreras1034&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresContreras1034&layout=compact&theme=tokyonight" />
+</p>
+
 
 ## 💡 Proyectos destacados
 
@@ -115,14 +123,6 @@ Prototipo con almacenamiento cifrado, validación y GUI en Java.
 `Java`, `Swing`, `Cifrado`
 
 ---
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AndresContreras1034&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=AndresContreras1034&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresContreras1034&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
