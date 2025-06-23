@@ -65,21 +65,7 @@
 
 ## 🧠 About Me
 
-I'm a Systems Engineering student who builds clean, scalable solutions in backend, automation, and data analysis. Focused on real-world impact through code and continuous learning.
-
-- 🎓 **Systems Engineering (6th semester)**
-- 💻 **Backend · Automation · Data Analysis**
-- ⚙️ **Java · Python · SQL · APIs · Dashboards**
-- 🌍 **Future Data Analytics Master's – Spain**
-- 🚀 **I build scalable, impactful tools — clean code first**
-
-## 💼 Why I Code
-
-I'm driven by the challenge of building efficient, real-world solutions through code. I focus on backend systems, automation, and data analysis because I enjoy making tools that solve problems clearly and effectively.
-
-My goal is to write code that works — clean, scalable, and maintainable. I’m not here to reinvent the wheel, but to understand how it turns and how to make it better.
-
-
+I’m a Systems Engineering student who focuses on backend, automation, and data analysis. I like building things that work, are easy to maintain, and actually solve problems. I’m not trying to reinvent anything — just understand how it works and make it better when I can.
 ## ⚙️ Technologies I Use
 
 ### 💻 Programming Languages
