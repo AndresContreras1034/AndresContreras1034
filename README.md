@@ -1,6 +1,6 @@
 <!-- Kirby en la esquina superior derecha -->
 <p align="right">
-  <img src="https://i.imgur.com/0DwMIBB.png" width="100px" alt="Kirby saludando" />
+  <img src="https://i.postimg.cc/FKJjwZMF/kirby-corner.png" width="100px" alt="Kirby saludando" />
 </p>
 
 <h1 align="center">Andrés Contreras</h1>
