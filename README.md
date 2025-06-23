@@ -50,18 +50,16 @@
 </p>
 
 ---
-
 ## 📌 Index
 
-- [About Me](#about-me)
-- [Technologies I Use](#technologies-i-use)
-- [Certifications](#certifications)
-- [GitHub Stats](#github-stats)
-- [Featured Projects](#featured-projects)
-- [Learning Roadmap](#learning-roadmap)
-- [Verified Badges](#verified-badges)
+<p align="center">
+  <a href="#about-me">About</a> •
+  <a href="#technologies-i-use">Technologies</a> •
+  <a href="#certifications">Certifications</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#learning-roadmap">Roadmap</a>
+</p>
 
----
 
 ## 🧠 About Me
 
@@ -80,6 +78,10 @@ I'm a Systems Engineering student with a strong focus on **backend development**
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
 </p>
 
 ### 🛠️ Frameworks, Tools & Environments
@@ -136,6 +138,8 @@ I'm a Systems Engineering student with a strong focus on **backend development**
 ---
 
 ## 🚀 Projects
+<img src="https://media.giphy.com/media/UqZP58Q7Wv3cU/giphy.gif" width="30px"/>
+
 
 <table align="center">
 <thead>
@@ -189,6 +193,11 @@ I'm a Systems Engineering student with a strong focus on **backend development**
 <p align="center">
   <img src="https://media.tenor.com/SVbG3gqVMBgAAAAj/kirby-wave.gif" width="100px" alt="Kirby waving" />
 </p>
+## 💼 Why I Code
+
+I'm driven by the challenge of building efficient, real-world solutions through code. I focus on backend systems, automation, and data analysis because I enjoy making tools that solve problems clearly and effectively.
+
+My goal is to write code that works — clean, scalable, and maintainable. I’m not here to reinvent the wheel, but to understand how it turns and how to make it better.
 
 
 ## 🎯 Learning Roadmap
