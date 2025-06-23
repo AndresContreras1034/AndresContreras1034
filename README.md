@@ -110,6 +110,93 @@ I'm a Systems Engineering student with a strong focus on **backend development**
 
 ---
 
+<!-- Kirby waving in certifications -->
+<p align="right">
+  <img src="https://media.tenor.com/SVbG3gqVMBgAAAAj/kirby-wave.gif" width="90px" alt="Kirby waving" />
+</p>
+
+## 🎓 Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CS50x-Harvard-8A1538?style=for-the-badge&logo=harvard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statistics_Diploma-UPC-orange?style=for-the-badge&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Power_BI-Coming_Soon-yellow?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AndresContreras1034&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=AndresContreras1034&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresContreras1034&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Projects
+
+<table align="center">
+<thead>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Status</th>
+<th>Tech</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/AndresContreras1034/rastreador_vuelos">Cheap Flight Tracker</a></td>
+<td>Automates Bogotá–Montreal flight searches, converts prices, sends alerts.</td>
+<td>Completed</td>
+<td>Python, SMTP, HTML, Cron</td>
+</tr>
+<tr>
+<td>COVID-19 Dashboard</td>
+<td>Interactive dashboard with filters and KPIs.</td>
+<td>In Progress</td>
+<td>Power BI, DAX, Open Data</td>
+</tr>
+<tr>
+<td>Secure Password Generator</td>
+<td>Tool for creating and storing encrypted passwords with GUI.</td>
+<td>Prototype</td>
+<td>Java, Swing</td>
+</tr>
+<tr>
+<td>Pet Tracker</td>
+<td>System for tracking pets' activity, location and health stats.</td>
+<td>In Development</td>
+<td>Java, SQL, JavaFX</td>
+</tr>
+<tr>
+<td>Portfolio Analyzer</td>
+<td>Tool for tracking personal investments and visualizing growth.</td>
+<td>Planned</td>
+<td>Python, Matplotlib, Pandas</td>
+</tr>
+<tr>
+<td>Smart Reminder App</td>
+<td>Multi-platform app that syncs deadlines, habits and notifications.</td>
+<td>Planned</td>
+<td>React Native, Firebase</td>
+</tr>
+</tbody>
+</table>
+
+<p align="center">
+  <img src="https://media.tenor.com/SVbG3gqVMBgAAAAj/kirby-wave.gif" width="100px" alt="Kirby waving" />
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <br>
+  <sub><em>Code. Break. Repeat.</em></sub>
+</div>
+
+
 ## 🎯 Learning Roadmap
 
 ```mermaid
