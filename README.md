@@ -208,7 +208,6 @@ My goal is to write code that works — clean, scalable, and maintainable. I’m
   <img src="https://media.tenor.com/SVbG3gqVMBgAAAAj/kirby-wave.gif" width="100px" alt="Kirby waving" />
 </p>
 
-## 🎯 Learning Roadmap
 
 ## 🎯 Learning Roadmap
 
