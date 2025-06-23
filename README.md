@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co/7dDQ7d4X/Sin-t-tulo.png" width="90px" alt="Kirby saludando" />
 </p>
 
-<h1 align="center">🧑‍💻 Andrés Contreras</h1>
+<h1 align="center">Andrés Contreras</h1>
 
 <p align="center">
   <strong>Ingeniero de Sistemas — 6.º semestre · 19 años</strong><br>
