@@ -1,142 +1,158 @@
+
+@@ -1,21 +1,20 @@
+<!--
+title: Andrés Contreras | Backend · Automatización · Data
+description: Portafolio técnico de Andrés Contreras: Ingeniero de Sistemas en formación, especializado en desarrollo backend, automatización con Python y análisis de datos.
+description: Portafolio técnico de Andrés Contreras: estudiante de Ingeniería de Sistemas con enfoque en desarrollo backend, automatización y análisis de datos.
+-->
+
 <!-- Kirby flotando arriba a la derecha -->
 <p align="right">
-  <img src="https://i.ibb.co/7dDQ7d4X/Sin-t-tulo.png" width="90px" alt="Kirby saludando" />
+  <img src="https://i.ibb.co/7dDQ7d4X/Sin-t-tulo.png" width="100px" alt="Kirby saludando con fondo blanco" />
 </p>
 
-<h1 align="center">Andrés Mendez</h1>
+<!-- Nombre principal -->
+<h1 align="center">¡Hola! Soy <strong>Andrés Contreras</strong> 👋</h1>
+<h1 align="center">¡Hola! Soy <strong>Andrés Contreras</strong> 👨‍💻✨</h1>
 
 <p align="center">
-  <strong>Ingeniero de Sistemas — 6.º semestre · 19 años</strong><br>
-  Backend · Automatización · Análisis de Datos
+  🎓 Ingeniero de Sistemas en formación | 🖥️ Backend · 🧠 Automatización · 📊 Análisis de Datos
+  🎓 19 años | Estudiante de Ingeniería de Sistemas — 6.º semestre  
+  🖥️ Backend · 🧠 Automatización · 📊 Análisis de Datos
 </p>
 
+<!-- Botones de contacto -->
 <p align="center">
   <a href="mailto:contrerandres001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contáctame-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/AndresContreras1034">
-    <img src="https://img.shields.io/badge/GitHub-AndresContreras1034-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://drive.google.com/your_cv_url_aqui" target="_blank">
-    <img src="https://img.shields.io/badge/CV-Ver%20Currículum-blue?style=for-the-badge&logo=readme" />
+    <img src="https://img.shields.io/badge/Email-Contáctame-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+@@ -28,17 +27,18 @@ description: Portafolio técnico de Andrés Contreras: Ingeniero de Sistemas en
   </a>
 </p>
 
+<!-- Reproductor de Spotify -->
+<!-- Escuchando Spotify -->
 <p align="center">
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7pofG9kjEbLdaY3OkqP25m?utm_source=generator&theme=0" width="80%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
   <a href="https://open.spotify.com/track/7pofG9kjEbLdaY3OkqP25m" target="_blank">
-    <img src="https://img.shields.io/badge/Now_Playing-Piel_de_Cordero-1DB954?style=flat-square&logo=spotify&logoColor=white" />
+    <img src="https://img.shields.io/badge/Now%20Playing-Piel%20de%20Cordero-1DB954?style=flat&logo=spotify&logoColor=white" alt="Escuchando en Spotify" />
   </a>
 </p>
 
+<!-- Contador de visitas -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AndresContreras1034&label=Profile%20views&color=lightgray" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AndresContreras1034&label=Profile%20views&color=grey&style=flat" alt="Visitas al perfil" />
 </p>
 
+<!-- Divider -->
+<!-- Encabezado animado -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+</div>
+@@ -47,36 +47,38 @@ description: Portafolio técnico de Andrés Contreras: Ingeniero de Sistemas en
+
+## 👨‍💻 Sobre mí
+
+Apasionado por la tecnología y la resolución de problemas. Me enfoco en crear herramientas prácticas que automaticen tareas, analicen datos o brinden soluciones backend sólidas. Me encuentro en formación, pero ya con proyectos reales en marcha y en constante aprendizaje.
+Soy un estudiante colombiano de 19 años, actualmente en 6.º semestre de Ingeniería de Sistemas. Me encanta automatizar procesos, trabajar en proyectos backend con Python y Java, y explorar el análisis de datos. Siempre estoy construyendo algo y aprendiendo algo nuevo.
+
 ---
 
-## 🧠 Sobre mí
+## 🧠 Actualmente aprendiendo
 
-Soy estudiante de Ingeniería de Sistemas con enfoque en desarrollo **backend**, **automatización** y **análisis de datos**. Disfruto construir herramientas útiles con **Python**, **Java** y **SQL**, y experimentar con APIs, dashboards interactivos y automatización. Actualmente en el 6.º semestre, activo en proyectos personales y certificaciones técnicas.
+- Angular y desarrollo frontend moderno  
+- Estructuras de datos aplicadas en proyectos  
+- Inteligencia Artificial (nivel introductorio)  
+- Git & GitHub a profundidad  
+- Certificación Power BI de Microsoft
 
 ---
 
-## ⚙️ Tecnologías que uso
+## 🚀 Tecnologías y herramientas
+## 🚀 Stack actual
 
 ### 🧰 Lenguajes
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-black?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=white" />
 </p>
 
-### 🛠 Frameworks, herramientas y entornos
-
+### 🛠️ Frameworks y herramientas
 <p align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
-</p>
-
-### 🛡️ Seguridad y redes
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Packet_Tracer-1BA0E2?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-black?style=flat&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-black?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-black?style=flat&logo=cpp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-black?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-black?style=flat&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-black?style=flat&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-black?style=flat&logo=arduino&logoColor=white" />
 </p>
 
 ### 🗄️ Bases de datos
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-black?style=flat&logo=sqlite&logoColor=white" />
+</p>
+
+---
+
+## 🧾 Certificaciones
+## 📚 Certificaciones
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
+  <img src="https://img.shields.io/badge/CS50x-Harvard-blue?style=flat&logo=harvard&logoColor=white" />
+@@ -86,16 +88,26 @@ Apasionado por la tecnología y la resolución de problemas. Me enfoco en crear
 
 ---
 
-<!-- Kirby flotando arriba a la derecha en certificaciones -->
-<p align="right">
-  <img src="https://media.tenor.com/SVbG3gqVMBgAAAAj/kirby-wave.gif" width="90px" alt="Kirby saludando" />
-</p>
+## 🛠️ Proyectos
+## 📌 Objetivos próximos
 
-## 📜 Certificaciones
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CS50x-Harvard-8A1538?style=for-the-badge&logo=harvard&logoColor=white" />
-  <img src="https://img.shields.io/badge/Diplomado_Estad%C3%ADstica-UPC-orange?style=for-the-badge&logo=academia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Power_BI-Próximamente-yellow?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" />
-</p>
-
----
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AndresContreras1034&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=AndresContreras1034&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresContreras1034&layout=compact&theme=tokyonight" />
-</p>
-
-
-## 💡 Proyectos destacados
-
-### ✈️ [Rastreador de vuelos baratos](https://github.com/AndresContreras1034/rastreador_vuelos)
-Automatiza búsqueda de vuelos Bogotá–Montreal, convierte precios a COP, limpia enlaces y envía alertas por correo.  
-`Python`, `SMTP`, `HTML parsing`, `TRM`, `Cron`
+- Obtener certificación de Power BI  
+- Subir mi primer proyecto Angular completo  
+- Terminar CS50x antes de finalizar el semestre  
+- Contribuir a un proyecto Open Source  
+- Lanzar mi portafolio personal en línea
 
 ---
 
-### 📊 Dashboard COVID-19 — *(en desarrollo)*
-Visualización interactiva con evolución temporal, filtros por departamento y KPIs.  
-`Power BI`, `Open Data`, `DAX`
+## 🧪 Proyectos
+
+- **[✈️ Rastreador de vuelos baratos](https://github.com/AndresContreras1034/rastreador_vuelos)**  
+  `Python`, `SMTP`, `Requests`, `HTML parsing` — Automatiza búsqueda de vuelos BOG-YUL. Envía alertas según umbral, enlaces limpios y convierte precios a COP.
+  `Python`, `SMTP`, `HTML parsing`, `Alertas por correo`, `COP conversion` — Automatiza búsqueda de vuelos con alertas y enlaces útiles.
+
+- **📊 Dashboard COVID-19 — Power BI** *(en desarrollo)*  
+  `Power BI`, `DAX`, `Open Data` — Visualización interactiva con filtros por departamentos, KPIs y evolución temporal.
+  Visualización interactiva con KPIs, filtros por departamento y evolución temporal.
+
+- **🔐 Generador de contraseñas seguras** *(prototipo)*  
+  `Java`, `Interfaz gráfica`, `Cifrado` — App multiplataforma para crear y guardar contraseñas personalizadas.
+  Creador y gestor de contraseñas cifradas con interfaz gráfica en Java.
 
 ---
 
-### 🔐 Generador de contraseñas seguras
-Prototipo con almacenamiento cifrado, validación y GUI en Java.  
-`Java`, `Swing`, `Cifrado`
+@@ -109,13 +121,19 @@ Apasionado por la tecnología y la resolución de problemas. Me enfoco en crear
 
 ---
 
----
-
+<!-- Kirby animado abajo -->
 <!-- Snake animation -->
+<!-- Activar GitHub Actions para visualizar -->
 <!--
 ![snake gif](https://github.com/AndresContreras1034/AndresContreras1034/blob/output/github-contribution-grid-snake.svg)
 -->
 
+<!-- Kirby y footer -->
 <p align="center">
-  <img src="https://media.tenor.com/SVbG3gqVMBgAAAAj/kirby-wave.gif" width="100px" alt="Kirby saludando" />
+  <img src="https://media.tenor.com/SVbG3gqVMBgAAAAj/kirby-wave.gif" width="120px" alt="Kirby saludando" />
 </p>
 
+<!-- Footer animado -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-  <br>
-  <sub><em>Code. Break. Repeat.</em></sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <br><br>
+  <em>💡 “Aprender haciendo. Fallar rápido. Crecer siempre.”</em>
 </div>
+Add comment
