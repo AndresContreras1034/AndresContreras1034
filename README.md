@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://static.wikia.nocookie.net/ssb/images/0/01/Kirby_SSBU.png" width="160px" alt="Kirby Super Smash Bros" />
+</p>
+
 <h1 align="center">Andrés Contreras</h1>
 <h3 align="center">Ingeniero de Sistemas en formación — Backend, automatización y análisis de datos</h3>
 
@@ -14,10 +18,13 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-black?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-black?style=flat&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-black?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-black?style=flat&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-black?style=flat&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-black?style=flat&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matlab-black?style=flat&logo=mathworks&logoColor=white" />
 </p>
 
 ---
@@ -47,10 +54,11 @@
 
 ## Escuchando ahora
 
-[![Piel de Cordero – Quevedo](https://img.shields.io/badge/Now_Playing-Piel_de_Cordero-black?style=for-the-badge&logo=spotify&logoColor=1DB954)](https://open.spotify.com/track/7pofG9kjEbLdaY3OkqP25m)
+[![Now Playing - Piel de Cordero](https://img.shields.io/badge/Now_Playing-Piel_de_Cordero-black?style=for-the-badge&logo=spotify&logoColor=1DB954)](https://open.spotify.com/track/7pofG9kjEbLdaY3OkqP25m)
 
 ---
 
 <p align="center">
   <img src="https://media.tenor.com/SVbG3gqVMBgAAAAj/kirby-wave.gif" width="120px" alt="Kirby saludando" />
 </p>
+
