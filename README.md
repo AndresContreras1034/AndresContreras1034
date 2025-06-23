@@ -51,7 +51,6 @@ Soy estudiante de Ingeniería de Sistemas con enfoque en desarrollo **backend**,
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
-
 </p>
 
 ### 🛠 Frameworks, herramientas y entornos
@@ -82,12 +81,17 @@ Soy estudiante de Ingeniería de Sistemas con enfoque en desarrollo **backend**,
 
 ---
 
-## 📊 Estadísticas de GitHub
+<!-- Kirby flotando arriba a la derecha en certificaciones -->
+<p align="right">
+  <img src="https://media.tenor.com/SVbG3gqVMBgAAAAj/kirby-wave.gif" width="90px" alt="Kirby saludando" />
+</p>
+
+## 📜 Certificaciones
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AndresContreras1034&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=AndresContreras1034&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresContreras1034&layout=compact&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/CS50x-Harvard-8A1538?style=for-the-badge&logo=harvard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Diplomado_Estad%C3%ADstica-UPC-orange?style=for-the-badge&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Power_BI-Próximamente-yellow?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" />
 </p>
 
 ---
@@ -112,12 +116,12 @@ Prototipo con almacenamiento cifrado, validación y GUI en Java.
 
 ---
 
-## 📜 Certificaciones
+## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CS50x-Harvard-8A1538?style=for-the-badge&logo=harvard&logoColor=white" />
-  <img src="https://img.shields.io/badge/Diplomado_Estad%C3%ADstica-UPC-orange?style=for-the-badge&logo=academia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Power_BI-Próximamente-yellow?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AndresContreras1034&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=AndresContreras1034&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresContreras1034&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -136,4 +140,3 @@ Prototipo con almacenamiento cifrado, validación y GUI en Java.
   <br>
   <sub><em>Code. Break. Repeat.</em></sub>
 </div>
-
