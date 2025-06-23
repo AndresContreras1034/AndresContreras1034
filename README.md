@@ -66,6 +66,12 @@
 I'm a Systems Engineering student with a strong focus on **backend development**, **automation**, and **data analysis**. I build robust tools using **Python**, **Java**, and **SQL**, and work with APIs, dashboards, and automation scripts. Currently in my 6th semester, I'm actively engaged in personal projects and earning certifications to deepen my expertise.
 
 ---
+## 💼 Why I Code
+
+I'm driven by the challenge of building efficient, real-world solutions through code. I focus on backend systems, automation, and data analysis because I enjoy making tools that solve problems clearly and effectively.
+
+My goal is to write code that works — clean, scalable, and maintainable. I’m not here to reinvent the wheel, but to understand how it turns and how to make it better.
+
 
 ## ⚙️ Technologies I Use
 
@@ -192,11 +198,6 @@ I'm a Systems Engineering student with a strong focus on **backend development**
 <p align="center">
   <img src="https://media.tenor.com/SVbG3gqVMBgAAAAj/kirby-wave.gif" width="100px" alt="Kirby waving" />
 </p>
-## 💼 Why I Code
-
-I'm driven by the challenge of building efficient, real-world solutions through code. I focus on backend systems, automation, and data analysis because I enjoy making tools that solve problems clearly and effectively.
-
-My goal is to write code that works — clean, scalable, and maintainable. I’m not here to reinvent the wheel, but to understand how it turns and how to make it better.
 
 
 ## 🎯 Learning Roadmap
