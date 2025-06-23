@@ -200,22 +200,57 @@ My goal is to write code that works — clean, scalable, and maintainable. I’m
   <img src="https://media.tenor.com/SVbG3gqVMBgAAAAj/kirby-wave.gif" width="100px" alt="Kirby waving" />
 </p>
 
+## 🎯 Learning Roadmap
 
 ## 🎯 Learning Roadmap
 
+| Status       | Description     |
+|--------------|-----------------|
+| 🟢 Completed | Finished topics |
+| 🟡 In Progress | Currently learning |
+| 🔴 Planned   | Upcoming topics |
+
 ```mermaid
-graph TD;
-  Start([Start]) --> JavaCore[Java Core & OOP]
-  JavaCore --> Spring[Spring Boot & APIs]
-  Spring --> Python[Python Data Automation]
-  Python --> SQL[SQL Advanced + Procedures]
-  SQL --> PowerBI[Power BI & DAX]
-  PowerBI --> Security[Cybersecurity Basics]
-  Security --> DevOps[GitHub Actions / CI/CD]
-  DevOps --> Projects[Capstone Projects]
+graph TD
+
+Start([🚀 Start]) --> P0[💻 Programming Fundamentals]
+
+subgraph Programming Skills
+  P0 --> CS50[🟢 CS50x – Computer Science]
+  CS50 --> Git[🟢 Git & GitHub]
+  Git --> PythonFCC[🔴 Python – Data Science]
+  PythonFCC --> SQL[🔴 SQL – Basic & Advanced]
+  SQL --> CS50AI[🟡 CS50 – Artificial Intelligence]
+  CS50AI --> CS50DS[🔴 CS50 – Data Science]
+  CS50DS --> TensorFlow[🔴 TensorFlow Developer Cert.]
+  TensorFlow --> RBasics[🔴 R Basics – HarvardX]
+end
+
+subgraph Tools and Data Platforms
+  RBasics --> Excel[🔴 Advanced Excel]
+  Excel --> PL300[🔴 PL-300 – Power BI]
+  PL300 --> Databricks[🔴 Databricks Analyst]
+  Databricks --> Tableau[🔴 Tableau Specialist]
+end
+
+subgraph Cloud and Architecture
+  Tableau --> AZ900[🔴 AZ-900 – Azure Fundamentals]
+  AZ900 --> DP900[🔴 DP-900 – Data Fundamentals]
+  DP900 --> DP203[🔴 DP-203 – Data Engineering]
+  DP203 --> AI102[🔴 AI-102 – Azure AI Engineer]
+  AI102 --> AZ305[🔴 AZ-305 – Architect Expert]
+end
+
+subgraph Complementary Skills
+  Start --> English[🟢 English B2 – Technical]
+  English --> StatsDiploma[🟢 Statistics Diploma]
+  StatsDiploma --> PMDiploma[🟢 Project Management Diploma]
+  PMDiploma --> Scrum[🔴 Scrum Master / PMP]
+end
+
+AZ305 --> Final([🏁 Graduation & Certifications])
+
 ```
-
-
 
 <!-- GitHub Stats and Projects remain unchanged for now -->
 
