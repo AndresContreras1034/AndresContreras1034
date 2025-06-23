@@ -21,13 +21,16 @@
   <a href="https://github.com/AndresContreras1034">
     <img src="https://img.shields.io/badge/GitHub-AndresContreras1034-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://drive.google.com/your_cv_url_aqui" target="_blank">
+  <a href="https://drive.google.com/your_cv_url_aqui">
     <img src="https://img.shields.io/badge/CV-View%20Resume-blue?style=for-the-badge&logo=readme&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Discord-.afcm01-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://open.spotify.com/track/7pofG9kjEbLdaY3OkqP25m" target="_blank">
+  <a href="https://open.spotify.com/track/7pofG9kjEbLdaY3OkqP25m">
     <img src="https://img.shields.io/badge/Now_Playing-Piel_de_Cordero-1DB954?style=flat-square&logo=spotify&logoColor=white" />
   </a>
 </p>
