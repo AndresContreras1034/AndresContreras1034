@@ -227,8 +227,4 @@ graph TD;
     }
   }
 </style>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-  <br>
-  <sub><em>Code. Break. Repeat.</em></sub>
-</div>
+
