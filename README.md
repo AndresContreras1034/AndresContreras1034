@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1150889243569299537/1386561353581592658/60862084-ba13-4122-8311-4803398bf7b5.png?ex=685a2763&is=6858d5e3&hm=ab71087ec89b8c6abac41918793768c112b6e70d4c264eb61239873b799a1c8b&" alt="Banner Andrés Méndez" width="50%" />
+  <img src="https://cdn.discordapp.com/attachments/1150889243569299537/1386561353581592658/60862084-ba13-4122-8311-4803398bf7b5.png?ex=685a2763&is=6858d5e3&hm=ab71087ec89b8c6abac41918793768c112b6e70d4c264eb61239873b799a1c8b&" alt="Banner Andrés Méndez" width="100%" />
 </div>
 
 
