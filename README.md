@@ -287,15 +287,8 @@ AZ305 --> Final([🏁 Graduation & Certifications])
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
   <br>
-  <sub><em>Code. Break. Repeat. ·</em></sub>
+  <sub><em>Code. Break. Repeat. 
 </div>
 
-<style>
-  @media (max-width: 600px) {
-    h1, p, img {
-      width: 100% !important;
-      text-align: center;
-    }
-  }
-</style>
+
 
