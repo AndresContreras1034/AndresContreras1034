@@ -1,67 +1,56 @@
-<h1 align="center">¡Hola! 👋 Soy Andrés Contreras</h1>
+<h1 align="center">Andrés Contreras</h1>
+<h3 align="center">Ingeniero de Sistemas en formación — Desarrollo backend, automatización y análisis de datos</h3>
 
 <p align="center">
-  Estudiante de Ingeniería de Sistemas, apasionado por el desarrollo backend, automatización y los datos. 
-  Buscando siempre aprender algo nuevo 🚀.
-</p>
-
-<p align="center">
-  <a href="mailto:contrerandres001@gmail.com"><img src="https://img.shields.io/badge/Email-contrerandres001@gmail.com-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://github.com/AndresContreras1034"><img src="https://img.shields.io/github/followers/AndresContreras1034?label=Follow&style=social"></a>
+  <a href="mailto:contrerandres001@gmail.com">contrerandres001@gmail.com</a> • 
+  <a href="https://github.com/AndresContreras1034">GitHub</a> • 
+  <img src="https://komarev.com/ghpvc/?username=AndresContreras1034&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
-## 🧠 Tecnologías que uso
-
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=flat)
-
----
-
-## 📈 Mis estadísticas
+## Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndresContreras1034&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresContreras1034&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
 ---
 
-## 🛠️ Proyectos destacados
+## Proyectos
 
-- ✈️ [Rastreador de vuelos baratos](https://github.com/AndresContreras1034/rastreador_vuelos)
-- 📊 Visualización de datos con Power BI (próximamente)
-- 🔐 Generador de contraseñas seguras (en desarrollo)
+- **[Rastreador de vuelos baratos](https://github.com/AndresContreras1034/rastreador_vuelos)**  
+  Herramienta en Python para monitorear precios de vuelos Bogotá–Montreal, con alertas automáticas por correo.
 
----
+- **Visualización de datos con Power BI** *(en desarrollo)*  
+  Dashboard interactivo basado en fuentes abiertas para entrenamiento en análisis de datos.
 
-## 🐍 Mi Snake (contribuciones animadas)
-
-![snake gif](https://github.com/AndresContreras1034/AndresContreras1034/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🎧 Spotify: lo que escucho ahora
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/spotify)
+- **Generador de contraseñas seguras** *(prototipo)*  
+  Aplicación de escritorio multiplataforma para generar y almacenar contraseñas cifradas.
 
 ---
 
-## 🔥 Objetivos actuales
+## Estadísticas
 
-- 📘 Terminar CS50x de Harvard
-- 📊 Certificarme en Power BI y análisis de datos
-- 🌍 Aplicar a una maestría en España en tecnología
-- ✨ Crear una app útil con IA o automatización real
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AndresContreras1034&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_title=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=AndresContreras1034&theme=default&hide_title=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresContreras1034&layout=compact&theme=default&hide_title=true" />
+</p>
+
+---
+
+## Escuchando ahora
+
+[![Piel de Cordero – Quevedo](https://i.scdn.co/image/ab67616d0000b273d1f8a4f00763be7db01a4e3e)](https://open.spotify.com/track/7pofG9kjEbLdaY3OkqP25m)
 
 ---
 
 <p align="center">
-  ¡Gracias por visitar mi perfil! ⭐
+  <img src="https://media.tenor.com/Av7eL4J3WmsAAAAj/kirby.gif" width="120px" alt="Kirby" />
 </p>
