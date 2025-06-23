@@ -3,10 +3,10 @@
   <img src="https://i.ibb.co/7dDQ7d4X/Sin-t-tulo.png" width="90px" alt="Kirby saludando" />
 </p>
 
-<h1 align="center">Andrés Contreras</h1>
+<h1 align="center">🧑‍💻 Andrés Contreras</h1>
 
 <p align="center">
-  Ingeniero de Sistemas — 6.º semestre · 19 años  
+  <strong>Ingeniero de Sistemas — 6.º semestre · 19 años</strong><br>
   Backend · Automatización · Análisis de Datos
 </p>
 
@@ -24,89 +24,103 @@
 
 <p align="center">
   <a href="https://open.spotify.com/track/7pofG9kjEbLdaY3OkqP25m" target="_blank">
-    <img src="https://img.shields.io/badge/Now_Playing-Piel_de_Cordero-1DB954?style=flat&logo=spotify&logoColor=white" />
+    <img src="https://img.shields.io/badge/Now_Playing-Piel_de_Cordero-1DB954?style=flat-square&logo=spotify&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AndresContreras1034&label=Profile%20views&color=gray" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AndresContreras1034&label=Profile%20views&color=lightgray" alt="Profile Views" />
 </p>
 
 ---
 
 ## 🧠 Sobre mí
 
-Estudiante de Ingeniería de Sistemas con enfoque en desarrollo backend, automatización y análisis de datos. Me gusta construir herramientas útiles con Python, Java y SQL, además de aprender tecnologías de visualización y APIs. Actualmente cursando 6.º semestre, activo en proyectos personales y certificaciones técnicas.
+Soy estudiante de Ingeniería de Sistemas con enfoque en desarrollo **backend**, **automatización** y **análisis de datos**. Disfruto construir herramientas útiles con **Python**, **Java** y **SQL**, y experimentar con APIs, dashboards interactivos y automatización. Actualmente en el 6.º semestre, activo en proyectos personales y certificaciones técnicas.
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AndresContreras1034&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=AndresContreras1034&theme=dark&hide_title=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresContreras1034&layout=compact&theme=dark&hide_title=true" />
-</p>
-
----
-
-## ⚙️ Tecnologías y herramientas
+## ⚙️ Tecnologías que uso
 
 ### 🧰 Lenguajes
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-black?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-black?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-black?style=flat&logo=cpp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
-### 🔧 Frameworks y herramientas
+### 🛠 Frameworks, herramientas y entornos
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-black?style=flat&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-black?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-black?style=flat&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-black?style=flat&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+</p>
+
+### 🛡️ Seguridad y redes
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Packet_Tracer-1BA0E2?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
 ### 🗄️ Bases de datos
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-black?style=flat&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
 ---
 
-## 🧾 Certificaciones
+## 📜 Certificaciones
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CS50x-Harvard-blue?style=flat&logo=harvard" />
-  <img src="https://img.shields.io/badge/Diplomado_Estad%C3%ADstica-UPC-orange?style=flat&logo=academia" />
-  <img src="https://img.shields.io/badge/Microsoft_Power_BI-Próximamente-yellow?style=flat&logo=microsoftpowerbi" />
+  <img src="https://img.shields.io/badge/CS50x-Harvard-8A1538?style=for-the-badge&logo=harvard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Diplomado_Estad%C3%ADstica-UPC-orange?style=for-the-badge&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Power_BI-Próximamente-yellow?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" />
 </p>
 
 ---
 
-## 🧪 Proyectos
+## 💡 Proyectos destacados
 
-- **[✈️ Rastreador de vuelos baratos](https://github.com/AndresContreras1034/rastreador_vuelos)**  
-  Automatiza la búsqueda de vuelos BOG–YUL, convierte precios a COP, limpia enlaces y envía alertas por correo.  
-  `Python`, `SMTP`, `HTML parsing`, `Cron`, `TRM`
-
-- **📊 Dashboard COVID-19 — Power BI** *(en desarrollo)*  
-  Visualización con filtros por departamentos, evolución y KPIs.  
-  `Power BI`, `Open Data`, `DAX`
-
-- **🔐 Generador de contraseñas seguras** *(prototipo)*  
-  Generador y almacenador con cifrado, interfaz gráfica en Java.  
-  `Java`, `Swing`, `Cifrado`, `Validación`
+### ✈️ [Rastreador de vuelos baratos](https://github.com/AndresContreras1034/rastreador_vuelos)
+Automatiza búsqueda de vuelos Bogotá–Montreal, convierte precios a COP, limpia enlaces y envía alertas por correo.  
+`Python`, `SMTP`, `HTML parsing`, `TRM`, `Cron`
 
 ---
 
-<!-- Snake animation opcional -->
+### 📊 Dashboard COVID-19 — *(en desarrollo)*
+Visualización interactiva con evolución temporal, filtros por departamento y KPIs.  
+`Power BI`, `Open Data`, `DAX`
+
+---
+
+### 🔐 Generador de contraseñas seguras
+Prototipo con almacenamiento cifrado, validación y GUI en Java.  
+`Java`, `Swing`, `Cifrado`
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AndresContreras1034&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=AndresContreras1034&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresContreras1034&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<!-- Snake animation -->
 <!--
 ![snake gif](https://github.com/AndresContreras1034/AndresContreras1034/blob/output/github-contribution-grid-snake.svg)
 -->
