@@ -49,18 +49,14 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AndresContreras1034&label=Profile%20views&color=lightgray" alt="Profile Views" />
 </p>
-### 👨‍💻 About Me
+## **About Me** 
 
-- 🎓 Systems Engineering student with a strong interest in software development, data analysis, and backend architecture.
 
-- 🚀 Focused on building robust and scalable solutions in Java, applying best practices and efficient data structures.
-
-- 📊 Intends to pursue a Master's degree in Data Analytics in Spain as part of his academic and professional growth.
-
-- 🧠 Firmly believes in continuous learning as the foundation for progress — from algorithmic performance to user experience quality.
-
+- 🎓 Systems Engineering student with a strong interest in software development, data analysis, and backend architecture.  
+- 🚀 Focused on building robust and scalable solutions in Java, applying best practices and efficient data structures.  
+- 📊 Intends to pursue a Master's degree in Data Analytics in Spain as part of his academic and professional growth.  
+- 🧠 Firmly believes in continuous learning as the foundation for progress — from algorithmic performance to user experience quality.  
 - 🌍 Motivated by the idea that well-applied technology can drive meaningful impact, and eager to contribute to projects that create real value.
-
 
 
 ---
