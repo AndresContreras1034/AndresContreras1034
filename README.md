@@ -191,7 +191,11 @@ I'm a Systems Engineering student with a strong focus on **backend development**
 </p>
 
 
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <br>
+  <sub><em>Code. Break. Repeat.</em></sub>
+</div>
 
 ## 🎯 Learning Roadmap
 
