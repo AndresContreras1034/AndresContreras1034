@@ -143,13 +143,18 @@ My goal is to write code that works — clean, scalable, and maintainable. I’m
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AndresContreras1034&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=AndresContreras1034&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresContreras1034&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=AndresContreras1034&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<br>
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=AndresContreras1034&theme=tokyonight" alt="GitHub Streak" />
+<br>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresContreras1034&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+</div>
 
 ---
+
 
 ## 🚀 Projects
 <img src="https://media.giphy.com/media/UqZP58Q7Wv3cU/giphy.gif" width="30px"/>
