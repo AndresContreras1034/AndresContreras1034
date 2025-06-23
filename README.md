@@ -207,6 +207,12 @@ My goal is to write code that works — clean, scalable, and maintainable. I’m
 <p align="center">
   <img src="https://media.tenor.com/SVbG3gqVMBgAAAAj/kirby-wave.gif" width="100px" alt="Kirby waving" />
 </p>
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AndresContreras1034/snk/output/github-user-contribution.svg" alt="GitHub Contribution Snake" />
+
+</p>
 
 
 ## 🎯 Learning Roadmap
