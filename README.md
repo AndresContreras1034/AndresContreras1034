@@ -45,9 +45,7 @@ description: Portafolio técnico de Andrés Contreras: estudiante de Ingeniería
 
 <!-- Divider -->
 <!-- Encabezado animado -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
-</div>
+
 @@ -47,36 +47,38 @@ description: Portafolio técnico de Andrés Contreras: Ingeniero de Sistemas en
 
 ## 👨‍💻 Sobre mí
