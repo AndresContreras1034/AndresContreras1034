@@ -1,113 +1,42 @@
-<!--
-title: Andrés Contreras | Backend · Automatización · Data
-description: Portafolio técnico de Andrés Contreras: estudiante de Ingeniería de Sistemas con enfoque en desarrollo backend, automatización y análisis de datos.
--->
-
 <!-- Kirby flotando arriba a la derecha -->
 <p align="right">
-  <img src="https://i.ibb.co/7dDQ7d4X/Sin-t-tulo.png" width="100px" alt="Kirby saludando con fondo blanco" />
+  <img src="https://i.ibb.co/7dDQ7d4X/Sin-t-tulo.png" width="90px" alt="Kirby saludando" />
 </p>
 
-<h1 align="center">¡Hola! Soy <strong>Andrés Contreras</strong> 👨‍💻✨</h1>
+<h1 align="center">Andrés Contreras</h1>
 
 <p align="center">
-  🎓 19 años | Estudiante de Ingeniería de Sistemas — 6.º semestre  
-  🖥️ Backend · 🧠 Automatización · 📊 Análisis de Datos
+  Ingeniero de Sistemas — 6.º semestre · 19 años  
+  Backend · Automatización · Análisis de Datos
 </p>
 
 <p align="center">
   <a href="mailto:contrerandres001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contáctame-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contáctame-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/AndresContreras1034">
-    <img src="https://img.shields.io/badge/GitHub-AndresContreras1034-black?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-AndresContreras1034-black?style=for-the-badge&logo=github" />
   </a>
   <a href="https://drive.google.com/your_cv_url_aqui" target="_blank">
-    <img src="https://img.shields.io/badge/CV-Ver%20Currículum-blue?style=for-the-badge&logo=readme&logoColor=white" alt="CV" />
+    <img src="https://img.shields.io/badge/CV-Ver%20Currículum-blue?style=for-the-badge&logo=readme" />
   </a>
 </p>
 
-<!-- Escuchando Spotify -->
 <p align="center">
   <a href="https://open.spotify.com/track/7pofG9kjEbLdaY3OkqP25m" target="_blank">
-    <img src="https://img.shields.io/badge/Now%20Playing-Piel%20de%20Cordero-1DB954?style=flat&logo=spotify&logoColor=white" alt="Escuchando en Spotify" />
+    <img src="https://img.shields.io/badge/Now_Playing-Piel_de_Cordero-1DB954?style=flat&logo=spotify&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AndresContreras1034&label=Profile%20views&color=grey&style=flat" alt="Visitas al perfil" />
-</p>
-
-<!-- Encabezado animado -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
-</div>
-
----
-
-## 👨‍💻 Sobre mí
-
-Soy un estudiante colombiano de 19 años, actualmente en 6.º semestre de Ingeniería de Sistemas. Me encanta automatizar procesos, trabajar en proyectos backend con Python y Java, y explorar el análisis de datos. Siempre estoy construyendo algo y aprendiendo algo nuevo.
-
----
-
-## 🧠 Actualmente aprendiendo
-
-- Angular y desarrollo frontend moderno  
-- Estructuras de datos aplicadas en proyectos  
-- Inteligencia Artificial (nivel introductorio)  
-- Git & GitHub a profundidad  
-- Certificación Power BI de Microsoft
-
----
-
-## 🚀 Stack actual
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-black?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-black?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-black?style=flat&logo=cpp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-black?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-black?style=flat&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-black?style=flat&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-black?style=flat&logo=arduino&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=AndresContreras1034&label=Profile%20views&color=gray" alt="Profile Views" />
 </p>
 
 ---
 
-## 📚 Certificaciones
+## 🧠 Sobre mí
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CS50x-Harvard-blue?style=flat&logo=harvard&logoColor=white" />
-  <img src="https://img.shields.io/badge/Diplomado%20Estad%C3%ADstica-UPC-orange?style=flat&logo=academia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Power%20BI-Próximamente-yellow?style=flat&logo=microsoftpowerbi&logoColor=white" />
-</p>
-
----
-
-## 📌 Objetivos próximos
-
-- Obtener certificación de Power BI  
-- Subir mi primer proyecto Angular completo  
-- Terminar CS50x antes de finalizar el semestre  
-- Contribuir a un proyecto Open Source  
-- Lanzar mi portafolio personal en línea
-
----
-
-## 🧪 Proyectos
-
-- **[✈️ Rastreador de vuelos baratos](https://github.com/AndresContreras1034/rastreador_vuelos)**  
-  `Python`, `SMTP`, `HTML parsing`, `Alertas por correo`, `COP conversion` — Automatiza búsqueda de vuelos con alertas y enlaces útiles.
-
-- **📊 Dashboard COVID-19 — Power BI** *(en desarrollo)*  
-  Visualización interactiva con KPIs, filtros por departamento y evolución temporal.
-
-- **🔐 Generador de contraseñas seguras** *(prototipo)*  
-  Creador y gestor de contraseñas cifradas con interfaz gráfica en Java.
+Estudiante de Ingeniería de Sistemas con enfoque en desarrollo backend, automatización y análisis de datos. Me gusta construir herramientas útiles con Python, Java y SQL, además de aprender tecnologías de visualización y APIs. Actualmente cursando 6.º semestre, activo en proyectos personales y certificaciones técnicas.
 
 ---
 
@@ -121,19 +50,73 @@ Soy un estudiante colombiano de 19 años, actualmente en 6.º semestre de Ingeni
 
 ---
 
-<!-- Snake animation -->
-<!-- Activar GitHub Actions para visualizar -->
+## ⚙️ Tecnologías y herramientas
+
+### 🧰 Lenguajes
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-black?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-black?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-black?style=flat&logo=cpp&logoColor=white" />
+</p>
+
+### 🔧 Frameworks y herramientas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring_Boot-black?style=flat&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-black?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-black?style=flat&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-black?style=flat&logo=arduino&logoColor=white" />
+</p>
+
+### 🗄️ Bases de datos
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-black?style=flat&logo=sqlite&logoColor=white" />
+</p>
+
+---
+
+## 🧾 Certificaciones
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CS50x-Harvard-blue?style=flat&logo=harvard" />
+  <img src="https://img.shields.io/badge/Diplomado_Estad%C3%ADstica-UPC-orange?style=flat&logo=academia" />
+  <img src="https://img.shields.io/badge/Microsoft_Power_BI-Próximamente-yellow?style=flat&logo=microsoftpowerbi" />
+</p>
+
+---
+
+## 🧪 Proyectos
+
+- **[✈️ Rastreador de vuelos baratos](https://github.com/AndresContreras1034/rastreador_vuelos)**  
+  Automatiza la búsqueda de vuelos BOG–YUL, convierte precios a COP, limpia enlaces y envía alertas por correo.  
+  `Python`, `SMTP`, `HTML parsing`, `Cron`, `TRM`
+
+- **📊 Dashboard COVID-19 — Power BI** *(en desarrollo)*  
+  Visualización con filtros por departamentos, evolución y KPIs.  
+  `Power BI`, `Open Data`, `DAX`
+
+- **🔐 Generador de contraseñas seguras** *(prototipo)*  
+  Generador y almacenador con cifrado, interfaz gráfica en Java.  
+  `Java`, `Swing`, `Cifrado`, `Validación`
+
+---
+
+<!-- Snake animation opcional -->
 <!--
 ![snake gif](https://github.com/AndresContreras1034/AndresContreras1034/blob/output/github-contribution-grid-snake.svg)
 -->
 
-<!-- Kirby y footer -->
 <p align="center">
-  <img src="https://media.tenor.com/SVbG3gqVMBgAAAAj/kirby-wave.gif" width="120px" alt="Kirby saludando" />
+  <img src="https://media.tenor.com/SVbG3gqVMBgAAAAj/kirby-wave.gif" width="100px" alt="Kirby saludando" />
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-  <br><br>
-  <em>💡 “Aprender haciendo. Fallar rápido. Crecer siempre.”</em>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <br>
+  <sub><em>Code. Break. Repeat.</em></sub>
 </div>
