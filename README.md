@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://static.wikia.nocookie.net/ssb/images/0/01/Kirby_SSBU.png" width="160px" alt="Kirby Super Smash Bros" />
+  <img src="https://raw.githubusercontent.com/AndresContreras1034/AndresContreras1034/main/assets/kirby.png" width="160px" alt="Kirby avatar" />
 </p>
 
 <h1 align="center">Andrés Contreras</h1>
@@ -61,4 +61,3 @@
 <p align="center">
   <img src="https://media.tenor.com/SVbG3gqVMBgAAAAj/kirby-wave.gif" width="120px" alt="Kirby saludando" />
 </p>
-
