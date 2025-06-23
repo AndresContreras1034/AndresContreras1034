@@ -145,16 +145,24 @@ My goal is to write code that works — clean, scalable, and maintainable. I’m
 
 <div align="center">
 
+<!-- Estadísticas generales -->
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=AndresContreras1034&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 <br>
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=AndresContreras1034&theme=tokyonight" alt="GitHub Streak" />
-<br>
+
+<!-- Lenguajes más usados -->
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresContreras1034&layout=compact&theme=tokyonight" alt="Top Languages" />
+<br>
+
+<!-- Commits del año (shields.io) -->
+<img src="https://img.shields.io/github/commit-activity/y/AndresContreras1034?label=Commits%20this%20year&color=blueviolet" alt="Commits this year" />
+<br><br>
+
+<!-- Trofeos visuales -->
+<img src="https://github-profile-trophy.vercel.app/?username=AndresContreras1034&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 
 </div>
 
 ---
-
 
 ## 🚀 Projects
 <img src="https://media.giphy.com/media/UqZP58Q7Wv3cU/giphy.gif" width="30px"/>
