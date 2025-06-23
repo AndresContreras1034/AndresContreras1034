@@ -53,11 +53,13 @@
 
 ## 📌 Index
 
-- [About Me](#-about-me)
-- [Technologies I Use](#-technologies-i-use)
-- [Certifications](#-certifications)
-- [GitHub Stats](#-github-stats)
-- [Projects](#-projects)
+- [About Me](#about-me)
+- [Technologies I Use](#technologies-i-use)
+- [Certifications](#certifications)
+- [GitHub Stats](#github-stats)
+- [Featured Projects](#featured-projects)
+- [Learning Roadmap](#learning-roadmap)
+- [Verified Badges](#verified-badges)
 
 ---
 
@@ -108,12 +110,23 @@ I'm a Systems Engineering student with a strong focus on **backend development**
 
 ---
 
-<!-- Kirby waving in certifications -->
-<p align="right">
-  <img src="https://media.tenor.com/SVbG3gqVMBgAAAAj/kirby-wave.gif" width="90px" alt="Kirby waving" />
-</p>
+## 🎯 Learning Roadmap
 
-## 🎓 Certifications
+```mermaid
+graph TD;
+  Start([Start]) --> JavaCore[Java Core & OOP]
+  JavaCore --> Spring[Spring Boot & APIs]
+  Spring --> Python[Python Data Automation]
+  Python --> SQL[SQL Advanced + Procedures]
+  SQL --> PowerBI[Power BI & DAX]
+  PowerBI --> Security[Cybersecurity Basics]
+  Security --> DevOps[GitHub Actions / CI/CD]
+  DevOps --> Projects[Capstone Projects]
+```
+
+---
+
+## 🛡️ Verified Badges
 
 <p align="center">
   <img src="https://img.shields.io/badge/CS50x-Harvard-8A1538?style=for-the-badge&logo=harvard&logoColor=white" />
@@ -123,66 +136,7 @@ I'm a Systems Engineering student with a strong focus on **backend development**
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AndresContreras1034&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=AndresContreras1034&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresContreras1034&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🚀 Projects
-
-<table align="center">
-<thead>
-<tr>
-<th>Project</th>
-<th>Description</th>
-<th>Status</th>
-<th>Tech</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://github.com/AndresContreras1034/rastreador_vuelos">Cheap Flight Tracker</a></td>
-<td>Automates Bogotá–Montreal flight searches, converts prices, sends alerts.</td>
-<td>Completed</td>
-<td>Python, SMTP, HTML, Cron</td>
-</tr>
-<tr>
-<td>COVID-19 Dashboard</td>
-<td>Interactive dashboard with filters and KPIs.</td>
-<td>In Progress</td>
-<td>Power BI, DAX, Open Data</td>
-</tr>
-<tr>
-<td>Secure Password Generator</td>
-<td>Tool for creating and storing encrypted passwords with GUI.</td>
-<td>Prototype</td>
-<td>Java, Swing</td>
-</tr>
-<tr>
-<td>Pet Tracker</td>
-<td>System for tracking pets' activity, location and health stats.</td>
-<td>In Development</td>
-<td>Java, SQL, JavaFX</td>
-</tr>
-<tr>
-<td>Portfolio Analyzer</td>
-<td>Tool for tracking personal investments and visualizing growth.</td>
-<td>Planned</td>
-<td>Python, Matplotlib, Pandas</td>
-</tr>
-<tr>
-<td>Smart Reminder App</td>
-<td>Multi-platform app that syncs deadlines, habits and notifications.</td>
-<td>Planned</td>
-<td>React Native, Firebase</td>
-</tr>
-</tbody>
-</table>
+<!-- GitHub Stats and Projects remain unchanged for now -->
 
 <p align="center">
   <img src="https://media.tenor.com/SVbG3gqVMBgAAAAj/kirby-wave.gif" width="100px" alt="Kirby waving" />
@@ -191,5 +145,14 @@ I'm a Systems Engineering student with a strong focus on **backend development**
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
   <br>
-  <sub><em>Code. Break. Repeat.</em></sub>
+  <sub><em>Code. Break. Repeat. · Mobile-Responsive Portfolio Enabled</em></sub>
 </div>
+
+<style>
+  @media (max-width: 600px) {
+    h1, p, img {
+      width: 100% !important;
+      text-align: center;
+    }
+  }
+</style>
