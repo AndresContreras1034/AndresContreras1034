@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co/7dDQ7d4X/Sin-t-tulo.png" width="90px" alt="Kirby waving" />
 </p>
 
-<h1 align="center">Andrés Mendez</h1>
+<h1 align="center">Andrés Méndez</h1>
 
 <p align="center">
   <strong>Systems Engineering Student — 6th semester · 19 years old</strong><br>
@@ -16,26 +16,60 @@
 
 ---
 
-## 📌 Table of Contents
+## 📫 Contact
 
-- [About Me](#about-me)
-- [Technologies I Use](#technologies-i-use)
-- [Certifications](#certifications)
-- [GitHub Stats](#github-stats)
-- [Featured Projects](#featured-projects)
-- [Contact](#contact)
+<p align="center">
+  <a href="mailto:contrerandres001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-contrerandres001@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/AndresContreras1034">
+    <img src="https://img.shields.io/badge/GitHub-AndresContreras1034-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/andres-contreras-mendez" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Andrés_Contreras-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.computrabajo.com.co/cvs-de-andres-contreras" target="_blank">
+    <img src="https://img.shields.io/badge/Computrabajo-CV-blue?style=for-the-badge&logo=readme&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/your_cv_url_aqui">
+    <img src="https://img.shields.io/badge/CV-Download_Resume-blue?style=for-the-badge&logo=readme&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Discord-.afcm01-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://open.spotify.com/track/7pofG9kjEbLdaY3OkqP25m">
+    <img src="https://img.shields.io/badge/Now_Playing-Piel_de_Cordero-1DB954?style=flat-square&logo=spotify&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AndresContreras1034&label=Profile%20views&color=lightgray" alt="Profile Views" />
+</p>
+
+---
+
+## 📌 Index
+
+- [About Me](#-about-me)
+- [Technologies I Use](#-technologies-i-use)
+- [Certifications](#-certifications)
+- [GitHub Stats](#-github-stats)
+- [Projects](#-projects)
 
 ---
 
 ## 🧠 About Me
 
-I'm a Systems Engineering student passionate about **backend development**, **automation**, and **data analysis**. I create functional and scalable tools using **Python**, **Java**, and **SQL**, with a focus on practical applications such as API integration, automation scripts, and interactive dashboards. Currently in my 6th semester, I combine academic learning with self-driven projects and professional certifications.
+I'm a Systems Engineering student with a strong focus on **backend development**, **automation**, and **data analysis**. I build robust tools using **Python**, **Java**, and **SQL**, and work with APIs, dashboards, and automation scripts. Currently in my 6th semester, I'm actively engaged in personal projects and earning certifications to deepen my expertise.
 
 ---
 
-## 🛠️ Technologies I Use
+## ⚙️ Technologies I Use
 
-### 🧰 Programming Languages
+### 💻 Programming Languages
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black" />
@@ -46,7 +80,7 @@ I'm a Systems Engineering student passionate about **backend development**, **au
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
 </p>
 
-### 🧱 Frameworks & Tools
+### 🛠️ Frameworks, Tools & Environments
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
@@ -65,7 +99,7 @@ I'm a Systems Engineering student passionate about **backend development**, **au
   <img src="https://img.shields.io/badge/Packet_Tracer-1BA0E2?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
-### 🗃️ Databases
+### 🗄️ Databases
 
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -79,7 +113,7 @@ I'm a Systems Engineering student passionate about **backend development**, **au
   <img src="https://media.tenor.com/SVbG3gqVMBgAAAAj/kirby-wave.gif" width="90px" alt="Kirby waving" />
 </p>
 
-## 📜 Certifications
+## 🎓 Certifications
 
 <p align="center">
   <img src="https://img.shields.io/badge/CS50x-Harvard-8A1538?style=for-the-badge&logo=harvard&logoColor=white" />
@@ -99,54 +133,57 @@ I'm a Systems Engineering student passionate about **backend development**, **au
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### ✈️ [Cheap Flight Tracker](https://github.com/AndresContreras1034/rastreador_vuelos)
-Automates Bogotá–Montreal flight searches, converts prices to COP, cleans links, and sends alerts via email.  
-`Python`, `SMTP`, `HTML parsing`, `TRM`, `Cron`
+<table align="center">
+<thead>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Status</th>
+<th>Tech</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/AndresContreras1034/rastreador_vuelos">Cheap Flight Tracker</a></td>
+<td>Automates Bogotá–Montreal flight searches, converts prices, sends alerts.</td>
+<td>Completed</td>
+<td>Python, SMTP, HTML, Cron</td>
+</tr>
+<tr>
+<td>COVID-19 Dashboard</td>
+<td>Interactive dashboard with filters and KPIs.</td>
+<td>In Progress</td>
+<td>Power BI, DAX, Open Data</td>
+</tr>
+<tr>
+<td>Secure Password Generator</td>
+<td>Tool for creating and storing encrypted passwords with GUI.</td>
+<td>Prototype</td>
+<td>Java, Swing</td>
+</tr>
+<tr>
+<td>Pet Tracker</td>
+<td>System for tracking pets' activity, location and health stats.</td>
+<td>In Development</td>
+<td>Java, SQL, JavaFX</td>
+</tr>
+<tr>
+<td>Portfolio Analyzer</td>
+<td>Tool for tracking personal investments and visualizing growth.</td>
+<td>Planned</td>
+<td>Python, Matplotlib, Pandas</td>
+</tr>
+<tr>
+<td>Smart Reminder App</td>
+<td>Multi-platform app that syncs deadlines, habits and notifications.</td>
+<td>Planned</td>
+<td>React Native, Firebase</td>
+</tr>
+</tbody>
+</table>
 
----
-
-### 📊 COVID-19 Dashboard *(In progress)*
-Interactive visualization with time evolution, department filters, and KPIs.  
-`Power BI`, `Open Data`, `DAX`
-
----
-
-### 🔐 Secure Password Generator
-Prototype with encrypted storage, validation, and GUI in Java.  
-`Java`, `Swing`, `Encryption`
-
----
-
-## 📬 Contact
-
-<p align="center">
-  <a href="mailto:contrerandres001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/AndresContreras1034">
-    <img src="https://img.shields.io/badge/GitHub-AndresContreras1034-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://drive.google.com/your_cv_url_aqui">
-    <img src="https://img.shields.io/badge/CV-View%20Resume-blue?style=for-the-badge&logo=readme&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Discord-.afcm01-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://open.spotify.com/track/7pofG9kjEbLdaY3OkqP25m">
-    <img src="https://img.shields.io/badge/Now_Playing-Piel_de_Cordero-1DB954?style=flat-square&logo=spotify&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AndresContreras1034&label=Profile%20views&color=lightgray" alt="Profile Views" />
-</p>
-
-<!-- Footer Animation -->
 <p align="center">
   <img src="https://media.tenor.com/SVbG3gqVMBgAAAAj/kirby-wave.gif" width="100px" alt="Kirby waving" />
 </p>
@@ -156,4 +193,3 @@ Prototype with encrypted storage, validation, and GUI in Java.
   <br>
   <sub><em>Code. Break. Repeat.</em></sub>
 </div>
-
