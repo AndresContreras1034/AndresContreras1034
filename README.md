@@ -10,11 +10,6 @@
   Backend · Automation · Data Analysis
 </p>
 
-<div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1298078640688467999/1386562353511792660/dcf6b85d-905e-484e-92f9-0210e7693762.png?ex=685a2852&is=6858d6d2&hm=70287af0e3c33994752e3bdf951f6f25ea1782ca0c429a87c40e73483fbfc458&" alt="Banner Andrés Méndez" width="100%" />
-</div>
-
-
 ---
 
 ## 📫 Contact
