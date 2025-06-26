@@ -2,6 +2,10 @@
 <p align="right">
   <img src="https://i.ibb.co/7dDQ7d4X/Sin-t-tulo.png" width="90px" alt="Kirby waving" />
 </p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+  <br>
+</div>
 
 <h1 align="center">Andrés Méndez</h1>
 
@@ -11,6 +15,7 @@
 </p>
 
 ---
+
 
 ## 📫 Contact
 
