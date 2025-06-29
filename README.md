@@ -279,7 +279,6 @@ AZ305 --> Final([🏁 Graduation & Certifications])
 
 
 
-<!-- GitHub Stats and Projects remain unchanged for now -->
 
 <p align="center">
   <img src="https://media.tenor.com/SVbG3gqVMBgAAAAj/kirby-wave.gif" width="100px" alt="Kirby waving" />
