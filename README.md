@@ -277,9 +277,6 @@ AZ305 --> Final([🏁 Graduation & Certifications])
   <img src="https://raw.githubusercontent.com/AndresContreras1034/snake/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </p>
 
-
-
-
 <p align="center">
   <img src="https://media.tenor.com/SVbG3gqVMBgAAAAj/kirby-wave.gif" width="100px" alt="Kirby waving" />
 </p>
