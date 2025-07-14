@@ -214,7 +214,7 @@ I’m a Systems Engineering student who focuses on backend, automation, and data
   <img src="https://media.tenor.com/SVbG3gqVMBgAAAAj/kirby-wave.gif" width="100px" alt="Kirby waving" />
 </p>
 <details>
-  <summary>📦 Ver tecnologías</summary>
+  <summary>🎯 Learning Roadmap</summary>
 
 
 
