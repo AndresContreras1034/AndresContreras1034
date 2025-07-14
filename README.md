@@ -15,8 +15,8 @@
 </p>
 
 ---
+<h2 align="center">📫 Contact</h2>
 
-## 📫 Contact
 
 <p align="center">
   <a href="mailto:contrerandres001@gmail.com">
@@ -83,7 +83,7 @@ I’m a Systems Engineering student who focuses on backend, automation, and data
 </p>
 
 
-### 🛠️ Frameworks, Tools & Environments
+<h2 align="center">🛠️ Frameworks, Tools & Environments</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
@@ -94,15 +94,14 @@ I’m a Systems Engineering student who focuses on backend, automation, and data
   <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
 </p>
-
-### 🔐 Security & Networking
+<h2 align="center">🔐 Security & Networking</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Packet_Tracer-1BA0E2?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
+<h2 align="center">🗄️ Databases</h2>
 
-### 🗄️ Databases
 
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -115,8 +114,8 @@ I’m a Systems Engineering student who focuses on backend, automation, and data
 <p align="right">
   <img src="https://media.tenor.com/SVbG3gqVMBgAAAAj/kirby-wave.gif" width="90px" alt="Kirby waving" />
 </p>
+<h2 align="center">🧰 Current Stack (2025)</h2>
 
-## 🧰 Current Stack (2025)
 
 - Backend: Java · Python · Spring Boot · SQL
 - Frontend: HTML/CSS · JS (básico)
@@ -124,8 +123,8 @@ I’m a Systems Engineering student who focuses on backend, automation, and data
 - OS: Linux (Kali/Ubuntu) · Windows
 
 
+<h2 align="center"> 🎓 Certifications</h2>
 
-## 🎓 Certifications
 
 <p align="center">
   <img src="https://img.shields.io/badge/CS50x-Harvard-8A1538?style=for-the-badge&logo=harvard&logoColor=white" />
@@ -134,8 +133,8 @@ I’m a Systems Engineering student who focuses on backend, automation, and data
 </p>
 
 ---
+<h2 align="center">  📊 GitHub Stats</h2>
 
-## 📊 GitHub Stats
 
 <div align="center">
 
@@ -157,8 +156,8 @@ I’m a Systems Engineering student who focuses on backend, automation, and data
 </div>
 
 ---
+<h2 align="center"> 🚀 Projects</h2>
 
-## 🚀 Projects
 <img src="https://media.giphy.com/media/UqZP58Q7Wv3cU/giphy.gif" width="30px"/>
 
 
@@ -219,8 +218,8 @@ I’m a Systems Engineering student who focuses on backend, automation, and data
 
 
 
+<h2 align="center"> 🎯 Learning Roadmap</h2>
 
-## 🎯 Learning Roadmap
 
 | Status       | Description     |
 |--------------|-----------------|
