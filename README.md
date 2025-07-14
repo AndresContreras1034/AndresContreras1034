@@ -51,7 +51,7 @@
 
 
 ---
-## 📌 Index
+<h2 align="center">📌 Index</h2>
 
 <p align="center">
   <a href="#about-me">About</a> •
@@ -62,12 +62,13 @@
 </p>
 
 
-## 🧠 About Me
+<h2 align="center">🧠 About Me</h2>
+
 
 I’m a Systems Engineering student who focuses on backend, automation, and data analysis. I like building things that work, are easy to maintain, and actually solve problems. I’m not trying to reinvent anything — just understand how it works and make it better when I can.
 ## ⚙️ Technologies I Use
 
-### 💻 Programming Languages
+<h2 align="center">💻 Programming Languages</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black" />
