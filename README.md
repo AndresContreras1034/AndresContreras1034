@@ -16,7 +16,6 @@
 
 ---
 
-
 ## 📫 Contact
 
 <p align="center">
@@ -214,11 +213,9 @@ I’m a Systems Engineering student who focuses on backend, automation, and data
 <p align="center">
   <img src="https://media.tenor.com/SVbG3gqVMBgAAAAj/kirby-wave.gif" width="100px" alt="Kirby waving" />
 </p>
-## 🐍 GitHub Contribution Snake
+<details>
+  <summary>📦 Ver tecnologías</summary>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AndresContreras1034/snake/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
-</p>
 
 
 
@@ -271,12 +268,14 @@ end
 AZ305 --> Final([🏁 Graduation & Certifications])
 
 ```
+</details>
+## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://media.tenor.com/SVbG3gqVMBgAAAAj/kirby-wave.gif" width="100px" alt="Kirby waving" />
+  <img src="https://raw.githubusercontent.com/AndresContreras1034/snake/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </p>
 
-<div align="center">
+ign="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
   <br>
   <sub><em>Code. Break. Repeat. 
