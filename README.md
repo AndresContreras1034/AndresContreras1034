@@ -217,9 +217,9 @@ I’m a Systems Engineering student who focuses on backend, automation, and data
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AndresContreras1034/snk/output/github-user-contribution.svg" alt="GitHub Contribution Snake" />
-
+  <img src="https://raw.githubusercontent.com/AndresContreras1034/snake/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </p>
+
 
 
 ## 🎯 Learning Roadmap
@@ -271,11 +271,6 @@ end
 AZ305 --> Final([🏁 Graduation & Certifications])
 
 ```
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AndresContreras1034/snake/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
-</p>
 
 <p align="center">
   <img src="https://media.tenor.com/SVbG3gqVMBgAAAAj/kirby-wave.gif" width="100px" alt="Kirby waving" />
