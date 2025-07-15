@@ -13,7 +13,6 @@
   <strong>Systems Engineering Student — 6th semester · 19 years old</strong><br>
   Backend · Automation · Data Analysis
 </p>
-
 ---
 <h2 align="center">📫 Contact</h2>
 
