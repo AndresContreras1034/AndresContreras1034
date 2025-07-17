@@ -268,17 +268,19 @@ AZ305 --> Final([🏁 Graduation & Certifications])
 
 ```
 </details>
+
 <h2 align="center">🐍 GitHub Contribution Snake</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AndresContreras1034/snake/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave"/>
+</p>
 
-ign="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-  <br>
-  <sub><em>Code. Break. Repeat. 
-</div>
+<p align="center">
+  <sub><em>Code. Break. Repeat.</em></sub>
+</p>
 
 
