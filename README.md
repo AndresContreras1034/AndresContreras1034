@@ -1,26 +1,22 @@
-<!-- Kirby floating at the top right -->
-<p align="right">
-  <img src="https://i.ibb.co/7dDQ7d4X/Sin-t-tulo.png" width="90px" alt="Kirby waving" />
-</p>
+<!-- Encabezado visual -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
-  <br>
 </div>
 
-
-<h1 align="center">Andrés Méndez</h1>
+<h1 align="center">Andrés Contreras Méndez</h1>
 
 <p align="center">
   <strong>Systems Engineering Student — 6th semester · 19 years old</strong><br>
   Backend · Automation · Data Analysis
 </p>
 
-<h2 align="center"> Contact</h2>
+---
 
+<h2 align="center"> Contact</h2>
 
 <p align="center">
   <a href="mailto:contrerandres001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-contrerandres001@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/AndresContreras1034">
     <img src="https://img.shields.io/badge/GitHub-AndresContreras1034-black?style=for-the-badge&logo=github" />
@@ -29,10 +25,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-Andrés_Contreras-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.computrabajo.com.co/cvs-de-andres-contreras" target="_blank">
-    <img src="https://img.shields.io/badge/Computrabajo-CV-blue?style=for-the-badge&logo=readme&logoColor=white" />
+    <img src="https://img.shields.io/badge/Computrabajo-CV-blue?style=for-the-badge" />
   </a>
   <a href="https://drive.google.com/your_cv_url_aqui">
-    <img src="https://img.shields.io/badge/CV-Download_Resume-blue?style=for-the-badge&logo=readme&logoColor=white" />
+    <img src="https://img.shields.io/badge/CV-Download-blue?style=for-the-badge" />
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Discord-.afcm01-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
@@ -40,35 +36,37 @@
 </p>
 
 <p align="center">
-  <a href="https://open.spotify.com/track/7pofG9kjEbLdaY3OkqP25m">
-    <img src="https://img.shields.io/badge/Now_Playing-Piel_de_Cordero-1DB954?style=flat-square&logo=spotify&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=AndresContreras1034&label=Profile%20views&color=lightgray" alt="Profile Views" />
 </p>
 
-
 ---
-<h2 align="center">📌 Index</h2>
+
+<h2 align="center"> Index</h2>
 
 <p align="center">
   <a href="#about-me">About</a> •
-  <a href="#technologies-i-use">Technologies</a> •
+  <a href="#technologies">Technologies</a> •
+  <a href="#stack">Stack</a> •
   <a href="#certifications">Certifications</a> •
   <a href="#projects">Projects</a> •
-  <a href="#learning-roadmap">Roadmap</a>
+  <a href="#github-stats">GitHub Stats</a>
 </p>
 
+---
 
-<h2 align="center">🧠 About Me</h2>
+<h2 id="about-me" align="center"> About Me</h2>
 
+<p align="center">
+I’m a Systems Engineering student who focuses on backend, automation, and data analysis.  
+I like building things that work, are easy to maintain, and actually solve problems.  
+I’m not trying to reinvent anything — just understand how it works and make it better when I can.
+</p>
 
-I’m a Systems Engineering student who focuses on backend, automation, and data analysis. I like building things that work, are easy to maintain, and actually solve problems. I’m not trying to reinvent anything — just understand how it works and make it better when I can.
-## ⚙️ Technologies I Use
+---
 
-<h2 align="center">💻 Programming Languages</h2>
+<h2 id="technologies" align="center">⚙ Technologies</h2>
+
+<h3 align="center">Programming Languages</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black" />
@@ -81,11 +79,15 @@ I’m a Systems Engineering student who focuses on backend, automation, and data
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-
-<h2 align="center">🛠️ Frameworks, Tools & Environments</h2>
+<h3 align="center">🛠️ Frameworks</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+</p>
+
+<h3 align="center">🔧 Tools & Environments</h3>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
@@ -93,74 +95,62 @@ I’m a Systems Engineering student who focuses on backend, automation, and data
   <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
 </p>
-<h2 align="center">🔐 Security & Networking</h2>
+
+<h3 align="center"> Security & Networking</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Packet_Tracer-1BA0E2?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
-<h2 align="center">🗄️ Databases</h2>
 
+<h3 align="center">🗄️ Databases</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ---
 
-<!-- Kirby waving in certifications -->
-<p align="right">
-  <img src="https://media.tenor.com/SVbG3gqVMBgAAAAj/kirby-wave.gif" width="90px" alt="Kirby waving" />
-</p>
-<h2 align="center">🧰 Current Stack (2025)</h2>
+<h2 id="stack" align="center"> Current Stack (2025)</h2>
 
+- **Backend**: Java · Python · Spring Boot · SQL  
+- **Frontend**: HTML/CSS · JavaScript (basic)  
+- **DevTools**: Git · VSCode · Power BI · VirtualBox  
+- **OS**: Linux (Kali/Ubuntu) · Windows  
 
-- Backend: Java · Python · Spring Boot · SQL
-- Frontend: HTML/CSS · JS (básico)
-- DevTools: Git · VSCode · Power BI · VirtualBox
-- OS: Linux (Kali/Ubuntu) · Windows
+---
 
-
-<h2 align="center"> 🎓 Certifications</h2>
-
+<h2 id="certifications" align="center"> Certifications</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/CS50x-Harvard-8A1538?style=for-the-badge&logo=harvard&logoColor=white" />
-  <img src="https://img.shields.io/badge/Statistics_Diploma-UPC-orange?style=for-the-badge&logo=academia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Power_BI-Coming_Soon-yellow?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/CS50R-Harvard-8A1538?style=for-the-badge&logo=harvard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statistics_Diploma-UPC-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bootcamp-Data_Analysis-blue?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_PL--300-Power_BI-2E8B57?style=for-the-badge&logo=microsoftpowerbi&logoColor=white" />
 </p>
 
 ---
-<h2 align="center">  📊 GitHub Stats</h2>
 
+<h2 id="github-stats" align="center"> GitHub Stats</h2>
 
 <div align="center">
 
-<!-- Estadísticas generales -->
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=AndresContreras1034&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<br>
 
-<!-- Lenguajes más usados -->
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresContreras1034&layout=compact&theme=tokyonight" alt="Top Languages" />
-<br>
 
-<!-- Commits del año (shields.io) -->
 <img src="https://img.shields.io/github/commit-activity/y/AndresContreras1034?label=Commits%20this%20year&color=blueviolet" alt="Commits this year" />
-<br><br>
 
-<!-- Trofeos visuales -->
 <img src="https://github-profile-trophy.vercel.app/?username=AndresContreras1034&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 
 </div>
 
 ---
-<h2 align="center"> 🚀 Projects</h2>
 
-<img src="https://media.giphy.com/media/UqZP58Q7Wv3cU/giphy.gif" width="30px"/>
-
+<h2 id="projects" align="center"> Projects</h2>
 
 <table align="center">
 <thead>
@@ -175,37 +165,37 @@ I’m a Systems Engineering student who focuses on backend, automation, and data
 <tr>
 <td><a href="https://github.com/AndresContreras1034/rastreador_vuelos">Cheap Flight Tracker</a></td>
 <td>Automates Bogotá–Montreal flight searches, converts prices, sends alerts.</td>
-<td>Completed</td>
+<td> Completed</td>
 <td>Python, SMTP, HTML, Cron</td>
 </tr>
 <tr>
 <td>COVID-19 Dashboard</td>
 <td>Interactive dashboard with filters and KPIs.</td>
-<td>In Progress</td>
+<td> In Progress</td>
 <td>Power BI, DAX, Open Data</td>
 </tr>
 <tr>
 <td>Secure Password Generator</td>
 <td>Tool for creating and storing encrypted passwords with GUI.</td>
-<td>Prototype</td>
+<td> Prototype</td>
 <td>Java, Swing</td>
 </tr>
 <tr>
 <td>Pet Tracker</td>
 <td>System for tracking pets' activity, location and health stats.</td>
-<td>In Development</td>
+<td> In Development</td>
 <td>Java, SQL, JavaFX</td>
 </tr>
 <tr>
 <td>Portfolio Analyzer</td>
 <td>Tool for tracking personal investments and visualizing growth.</td>
-<td>Planned</td>
+<td> Planned</td>
 <td>Python, Matplotlib, Pandas</td>
 </tr>
 <tr>
 <td>Smart Reminder App</td>
 <td>Multi-platform app that syncs deadlines, habits and notifications.</td>
-<td>Planned</td>
+<td> Planned</td>
 <td>React Native, Firebase</td>
 </tr>
 </tbody>
@@ -215,7 +205,7 @@ I’m a Systems Engineering student who focuses on backend, automation, and data
   <img src="https://media.tenor.com/SVbG3gqVMBgAAAAj/kirby-wave.gif" width="100px" alt="Kirby waving" />
 </p>
 <details>
-  <summary>🎯 Learning Roadmap</summary>
+  <summary> Learning Roadmap</summary>
 
 
 
@@ -271,7 +261,7 @@ AZ305 --> Final([🏁 Graduation & Certifications])
 ```
 </details>
 
-<h2 align="center">🐍 GitHub Contribution Snake</h2>
+<h2 align="center"> GitHub Contribution Snake</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AndresContreras1034/snake/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
