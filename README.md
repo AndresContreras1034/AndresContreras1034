@@ -14,8 +14,8 @@
   <strong>Systems Engineering Student — 6th semester · 19 years old</strong><br>
   Backend · Automation · Data Analysis
 </p>
----
-<h2 align="center">📫 Contact</h2>
+
+<h2 align="center"> Contact</h2>
 
 
 <p align="center">
@@ -79,7 +79,6 @@ I’m a Systems Engineering student who focuses on backend, automation, and data
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 
@@ -106,6 +105,8 @@ I’m a Systems Engineering student who focuses on backend, automation, and data
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+
 </p>
 
 ---
