@@ -3,7 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </div>
 
-<h1 align="center">Andrés Contreras Méndez</h1>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=5000&pause=1000&color=36BCF7&background=00000000&width=435&height=50&lines=Andres+Felipe+Contreras+Mendez)](https://git.io/typing-svg)
+
+</div>
 
 <p align="center">
   <strong>Systems Engineering Student — 6th semester · 19 years old</strong><br>
