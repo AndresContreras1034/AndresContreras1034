@@ -126,15 +126,6 @@ I’m not trying to reinvent anything — just understand how it works and make 
 
 ---
 
-<h2 id="certifications" align="center"> Certifications</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CS50x-Harvard-8A1538?style=for-the-badge&logo=harvard&logoColor=white" />
-  <img src="https://img.shields.io/badge/CS50R-Harvard-8A1538?style=for-the-badge&logo=harvard&logoColor=white" />
-  <img src="https://img.shields.io/badge/Statistics_Diploma-UPC-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Bootcamp-Data_Analysis-blue?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_PL--300-Power_BI-2E8B57?style=for-the-badge&logo=microsoftpowerbi&logoColor=white" />
-</p>
 
 ---
 
