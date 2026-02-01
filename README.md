@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-  <strong>Systems Engineering Student — 6th semester · 19 years old</strong><br>
+  <strong>Systems Engineering Student — 8th semester · 19 years old</strong><br>
   Backend · Automation · Data Analysis
 </p>
 
