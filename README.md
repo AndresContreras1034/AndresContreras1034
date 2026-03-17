@@ -5,18 +5,18 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=5000&pause=1000&color=36BCF7&background=00000000&width=435&height=50&lines=Andres+Felipe+Contreras+Mendez)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Andres+Felipe+Contreras+Mendez;Data+Engineering+%7C+Data+Analysis;Designing+Data+Driven+Systems)](https://git.io/typing-svg)
 
 </div>
 
 <p align="center">
-  <strong>Systems Engineering Student — 8th semester · 19 years old</strong><br>
-  Backend · Automation · Data Analysis
+  <strong>Systems Engineering Student · Data Engineering Track</strong><br>
+  Python · SQL · Data Pipelines · Analytical Systems
 </p>
 
 ---
 
-<h2 align="center"> Contact</h2>
+<h2 align="center">Contact</h2>
 
 <p align="center">
   <a href="mailto:contrerandres001@gmail.com">
@@ -28,191 +28,147 @@
   <a href="https://www.linkedin.com/in/andres-contreras-mendez" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Andrés_Contreras-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.computrabajo.com.co/cvs-de-andres-contreras" target="_blank">
-    <img src="https://img.shields.io/badge/Computrabajo-CV-blue?style=for-the-badge" />
-  </a>
-  <a href="https://drive.google.com/your_cv_url_aqui">
-    <img src="https://img.shields.io/badge/CV-Download-blue?style=for-the-badge" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Discord-.afcm01-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AndresContreras1034&label=Profile%20views&color=lightgray" alt="Profile Views" />
 </p>
 
 ---
 
-<h2 align="center"> Index</h2>
+<h2 align="center">Index</h2>
 
 <p align="center">
-  <a href="#about-me">About</a> •
-  <a href="#technologies">Technologies</a> •
+  <a href="#about">About</a> •
+  <a href="#focus">Focus</a> •
   <a href="#stack">Stack</a> •
-  <a href="#certifications">Certifications</a> •
   <a href="#projects">Projects</a> •
-  <a href="#github-stats">GitHub Stats</a>
+  <a href="#learning">Learning</a> •
+  <a href="#goals">Goals</a> •
+  <a href="#github-stats">Stats</a>
 </p>
 
 ---
 
-<h2 id="about-me" align="center"> About Me</h2>
+<h2 id="about" align="center">About</h2>
 
 <p align="center">
-I’m a Systems Engineering student who focuses on backend, automation, and data analysis.  
-I like building things that work, are easy to maintain, and actually solve problems.  
-I’m not trying to reinvent anything — just understand how it works and make it better when I can.
+Systems Engineering student in final semesters with a focused track in data engineering and data analysis.<br>
+Interested in building reliable data pipelines, transforming raw data into structured information, and supporting decision-making through analytical systems.<br>
+Currently preparing for graduate studies in data science in Europe.
 </p>
 
 ---
 
-<h2 id="technologies" align="center">⚙ Technologies</h2>
+<h2 id="focus" align="center">Focus</h2>
 
-<h3 align="center">Programming Languages</h3>
+<p align="center">
+Data Engineering (ETL processes, data pipelines, structured data workflows)<br>
+Data Analysis and Visualization (data cleaning, KPI design, reporting)<br>
+Backend Systems for data processing and automation
+</p>
+
+---
+
+<h2 id="stack" align="center">Tech Stack</h2>
+
+<h3 align="center">Languages</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<h3 align="center">🛠️ Frameworks</h3>
+<h3 align="center">Data</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi" />
 </p>
 
-<h3 align="center">🔧 Tools & Environments</h3>
+<h3 align="center">Tools</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
-</p>
-
-<h3 align="center"> Security & Networking</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Packet_Tracer-1BA0E2?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
-
-<h3 align="center">🗄️ Databases</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
 
-<h2 id="stack" align="center"> Current Stack (2025)</h2>
-
-- **Backend**: Java · Python · Spring Boot · SQL  
-- **Frontend**: HTML/CSS · JavaScript (basic)  
-- **DevTools**: Git · VSCode · Power BI · VirtualBox  
-- **OS**: Linux (Kali/Ubuntu) · Windows  
-
----
-
-
----
-
-<h2 id="github-stats" align="center"> GitHub Stats</h2>
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=AndresContreras1034&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresContreras1034&layout=compact&theme=tokyonight" alt="Top Languages" />
-
-<img src="https://img.shields.io/github/commit-activity/y/AndresContreras1034?label=Commits%20this%20year&color=blueviolet" alt="Commits this year" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=AndresContreras1034&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-
-</div>
-
----
-
-<h2 id="projects" align="center"> Projects</h2>
+<h2 id="projects" align="center">Selected Projects</h2>
 
 <table align="center">
 <thead>
 <tr>
 <th>Project</th>
 <th>Description</th>
-<th>Status</th>
-<th>Tech</th>
+<th>Technologies</th>
 </tr>
 </thead>
 <tbody>
+
 <tr>
-<td><a href="https://github.com/AndresContreras1034/rastreador_vuelos">Cheap Flight Tracker</a></td>
-<td>Automates Bogotá–Montreal flight searches, converts prices, sends alerts.</td>
-<td> Completed</td>
-<td>Python, SMTP, HTML, Cron</td>
+<td><a href="https://github.com/AndresContreras1034/rastreador_vuelos">Flight Price Tracker</a></td>
+<td>
+Automated data pipeline for tracking flight prices. Extracts, transforms and processes data, triggering notifications based on defined conditions.
+</td>
+<td>Python · Data Processing · Automation</td>
 </tr>
+
 <tr>
-<td>COVID-19 Dashboard</td>
-<td>Interactive dashboard with filters and KPIs.</td>
-<td> In Progress</td>
-<td>Power BI, DAX, Open Data</td>
+<td>COVID-19 Data Dashboard</td>
+<td>
+Interactive dashboard for exploratory data analysis, including KPI tracking, filtering and structured reporting.
+</td>
+<td>Power BI · DAX · Data Visualization</td>
 </tr>
+
 <tr>
-<td>Secure Password Generator</td>
-<td>Tool for creating and storing encrypted passwords with GUI.</td>
-<td> Prototype</td>
-<td>Java, Swing</td>
+<td>Data Pipeline (In Development)</td>
+<td>
+End-to-end ETL pipeline using real-world datasets. Focused on data ingestion, transformation and structured storage.
+</td>
+<td>Python · SQL · ETL</td>
 </tr>
-<tr>
-<td>Pet Tracker</td>
-<td>System for tracking pets' activity, location and health stats.</td>
-<td> In Development</td>
-<td>Java, SQL, JavaFX</td>
-</tr>
-<tr>
-<td>Portfolio Analyzer</td>
-<td>Tool for tracking personal investments and visualizing growth.</td>
-<td> Planned</td>
-<td>Python, Matplotlib, Pandas</td>
-</tr>
-<tr>
-<td>Smart Reminder App</td>
-<td>Multi-platform app that syncs deadlines, habits and notifications.</td>
-<td> Planned</td>
-<td>React Native, Firebase</td>
-</tr>
+
 </tbody>
 </table>
 
-<p align="center">
-  <img src="https://media.tenor.com/SVbG3gqVMBgAAAAj/kirby-wave.gif" width="100px" alt="Kirby waving" />
-</p>
+---
 
-
-<h2 align="center"> GitHub Contribution Snake</h2>
+<h2 id="learning" align="center">Learning and Certifications</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AndresContreras1034/snake/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+CS50x – Introduction to Computer Science<br>
+CS50 SQL – Databases and Querying<br>
+CS50P – Python Programming (in progress)<br>
+CS50 AI (planned)<br>
+Data Analytics Bootcamp
 </p>
+
+---
+
+<h2 id="goals" align="center">Current Objectives</h2>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave"/>
+Develop strong practical experience in data-related roles<br>
+Build production-oriented data projects<br>
+Reach a solid B2 level in English<br>
+Prepare for Master's studies in Europe
 </p>
+
+---
+
+<h2 id="github-stats" align="center">GitHub Stats</h2>
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=AndresContreras1034&show_icons=true&theme=tokyonight" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresContreras1034&layout=compact&theme=tokyonight" />
+
+</div>
+
+---
 
 <p align="center">
-  <sub><em>Code. Break. Repeat.</em></sub>
+  <sub><em>Focused on building reliable data systems and continuously improving technical depth.</em></sub>
 </p>
-
-
