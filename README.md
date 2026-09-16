@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-  <strong>Systems Engineering Student (Final Semester) · Full-Stack Developer</strong><br>
+  <strong>Systems Engineering Student · Full-Stack Developer</strong><br>
   Rust · TypeScript/Node.js · React · PostgreSQL · Applied AI/LLM Systems
 </p>
 
