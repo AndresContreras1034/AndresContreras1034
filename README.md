@@ -5,13 +5,13 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Andres+Felipe+Contreras+Mendez;Full-Stack+Developer+%7C+Applied+AI+%2F+Systems+Architecture;Building+production-oriented+systems+and+RAG%2FLLM+research)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Andr%C3%A9s+Felipe+Contreras+M%C3%A9ndez;Software+Developer+%7C+Applied+AI+%2F+Systems+Architecture;Building+production-oriented+systems+and+applied+AI)](https://git.io/typing-svg)
 
 </div>
 
 <p align="center">
-  <strong>Systems Engineering Student · Full-Stack Developer</strong><br>
-  Rust · TypeScript/Node.js · React · PostgreSQL · Applied AI/LLM Systems
+  <strong>Systems Engineering Student · Software Developer</strong><br>
+  Rust · TypeScript/Node.js · React · PostgreSQL · Python · Applied AI/LLM Systems
 </p>
 
 ---
@@ -25,7 +25,7 @@
   <a href="https://github.com/AndresContreras1034">
     <img src="https://img.shields.io/badge/GitHub-AndresContreras1034-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/andres-contreras-mendez" target="_blank">
+  <a href="https://www.linkedin.com/in/andr%C3%A9s-contreras-67720a31a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Andrés_Contreras-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -35,9 +35,9 @@
 <h2 id="about" align="center">About</h2>
 
 <p align="center">
-Full-stack developer and Systems Engineering student building production-oriented systems across multiple stacks — from desktop POS software in Rust to marketplace platforms with payment processing and AI-integrated recommendation engines.<br>
-Currently a Level 1 researcher in an IoT/ITS-focused IEEE research group, developing a sectorized RAG/LLM system backed by institutional partnerships (Ministry of Transport connections).<br>
-Preparing for graduate studies (MSc) in Computer Engineering / Data Science in Europe, targeting UPC Barcelona.
+Software developer and Systems Engineering student building production-oriented systems across multiple stacks: from a desktop POS in Rust, already in use at a real store, to a marketplace platform with payment processing and an AI-integrated recommendation engine.<br>
+Former Level 1 researcher in an IoT/ITS-focused IEEE research group, where I worked on a sectorized RAG/LLM system.<br>
+Planning graduate studies in Computer Engineering / Data Science in Europe (target: UPC Barcelona, 2027).
 </p>
 
 ---
@@ -47,7 +47,7 @@ Preparing for graduate studies (MSc) in Computer Engineering / Data Science in E
 <p align="center">
 System architecture: layered backend design, service/repository patterns, clean module separation<br>
 Applied AI: RAG pipelines, semantic routing, LLM integration, prompt optimization<br>
-Full-stack product development: auth (incl. MFA/TOTP), payments (Stripe), real-time features<br>
+Product development: auth (incl. MFA/TOTP), payments (Stripe), real-time features<br>
 Cross-platform desktop apps: Rust + Tauri
 </p>
 
@@ -66,17 +66,9 @@ Cross-platform desktop apps: Rust + Tauri
 <tbody>
 
 <tr>
-<td><strong>RAG/LLM Semillero Research Project</strong></td>
-<td>
-Sectorized RAG system for an IoT/ITS lab, with a semantic router that classifies queries by domain before retrieval to reduce context and improve relevance. Approved and running on a Jetson AGX Orin, supervised by a professor with Ministry of Transport / Transmilenio ties.
-</td>
-<td>RAG · LLM · Semantic Routing · Edge AI</td>
-</tr>
-
-<tr>
 <td><strong>CashFlow-POS</strong></td>
 <td>
-Cross-platform desktop point-of-sale system, offline-first. Full inventory (with kardex), sales, supplier, debt, and cash management modules, with receipt printing and layered backend architecture (handlers/services/repositories).
+Cross-platform desktop point-of-sale system, offline-first, in use at a real store. Inventory (with kardex), sales, supplier, debt, and cash management modules, receipt printing, encrypted backups and a layered backend architecture (handlers/services/repositories).
 </td>
 <td>Rust · Tauri 2 · React/TypeScript · PostgreSQL</td>
 </tr>
@@ -84,7 +76,7 @@ Cross-platform desktop point-of-sale system, offline-first. Full inventory (with
 <tr>
 <td><strong>BrandConnect</strong></td>
 <td>
-Full-stack marketplace connecting brands and content creators — profiles, real-time chat, negotiation, subscription plans, and Stripe payment processing with webhook handling. MFA via TOTP for account security.
+Marketplace connecting brands and content creators: profiles, real-time chat, negotiation, subscription plans, and Stripe payment processing with webhook handling. MFA via TOTP for account security.
 </td>
 <td>React · Node.js/Express · PostgreSQL · Stripe</td>
 </tr>
@@ -100,15 +92,23 @@ Recommendation platform for tourism, combining an LLM-based assistant with a cus
 <tr>
 <td><strong>DIAN Document Pipeline</strong></td>
 <td>
-ETL pipeline for Colombian electronic tax documents — automated authentication, XML/PDF parsing and classification, and structured CSV export.
+ETL pipeline for Colombian electronic tax documents: automated authentication, XML/PDF parsing and classification, and structured CSV export.
 </td>
 <td>Python · ETL · Document Processing</td>
 </tr>
 
 <tr>
+<td><strong>RAG/LLM Research Project (IoT/ITS)</strong></td>
+<td>
+Sectorized RAG design for an IoT/ITS lab, with a semantic router that classifies queries by domain before retrieval to reduce context and improve relevance. Developed during my time in the research group.
+</td>
+<td>RAG · LLM · Semantic Routing · Edge AI</td>
+</tr>
+
+<tr>
 <td><strong>Agrotech (in progress)</strong></td>
 <td>
-Farm management system for a ruscus export farm — cultivation bed tracking and IoT sensor integration for an internationally-sold crop.
+Farm management system for a ruscus export farm: cultivation bed tracking and IoT sensor integration for an internationally-sold crop.
 </td>
 <td>Rust · Tauri · IoT</td>
 </tr>
@@ -146,8 +146,8 @@ Farm management system for a ruscus export farm — cultivation bed tracking and
 <h2 id="learning" align="center">Certifications</h2>
 
 <p align="center">
-Completed: CS50x · CS50 SQL · CS50 Python · CS50 AI · CS50R (Rust)<br>
-In progress: Data Analytics/Big Data track, Applied AI coursework
+Completed: CS50x · CS50R · Data Analytics Bootcamp (MinTIC, 2025)<br>
+In progress: CS50 SQL · CS50 Python · CS50 AI · Microsoft Azure Fundamentals (AZ-900)
 </p>
 
 ---
@@ -155,10 +155,9 @@ In progress: Data Analytics/Big Data track, Applied AI coursework
 <h2 id="goals" align="center">Current Objectives</h2>
 
 <p align="center">
-Formalize and publish RAG/IoT-ITS research project<br>
-Advance the agrotech farm management system<br>
+Advance the Agrotech farm management system<br>
 Reach C1 English proficiency<br>
-Graduate studies in Computer Engineering (MEI) — UPC Barcelona, 2027
+Graduate studies in Computer Engineering (MEI), UPC Barcelona, 2027
 </p>
 
 ---
@@ -172,9 +171,3 @@ Graduate studies in Computer Engineering (MEI) — UPC Barcelona, 2027
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresContreras1034&layout=compact&theme=tokyonight" />
 
 </div>
-
----
-
-<p align="center">
-  <sub><em>Building systems that ship — from research prototypes to production-ready software.</em></sub>
-</p>
