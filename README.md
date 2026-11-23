@@ -1,159 +1,167 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F33,50:1D4ED8,100:2563EB&height=190&section=header&text=Andres%20Felipe%20Contreras&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Applied%20AI%20%E2%80%A2%20System%20Architecture&descAlignY=58&descAlign=50" alt="Andres Felipe Contreras banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Andr%C3%A9s+Felipe+Contreras+M%C3%A9ndez;Software+Developer+%7C+Applied+AI+%2F+Systems+Architecture;Building+production-oriented+systems+and+applied+AI)](https://git.io/typing-svg)
+
 </div>
 
 <p align="center">
-  <a href="https://github.com/AndresContreras1034">
-    <img src="https://img.shields.io/badge/GitHub-AndresContreras1034-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <strong>Systems Engineering Student · Software Developer</strong><br>
+  Rust · TypeScript/Node.js · React · PostgreSQL · Python · Applied AI/LLM Systems
+</p>
+
+---
+
+<h2 align="center">Contact</h2>
+
+<p align="center">
   <a href="mailto:contrerandres001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/andr%C3%A9s-contreras-67720a31/">
-    <img src="https://img.shields.io/badge/LinkedIn-Andr%C3%A9s_Contreras-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://github.com/AndresContreras1034">
+    <img src="https://img.shields.io/badge/GitHub-AndresContreras1034-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/andr%C3%A9s-contreras-67720a31/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Andrés_Contreras-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AndresContreras1034&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/AndresContreras1034?style=for-the-badge&color=1D4ED8&labelColor=0B1F33&logo=github" alt="Followers"/>
-</p>
+---
 
-```text
-┌─────────────────────────────────────────────────────────────────┐
-│  $ whoami                                                      │
-│  > Systems Engineering student                                  │
-│  > Software developer focused on real-world, usable systems     │
-│                                                                 │
-│  $ cat stack.txt                                                │
-│  > Rust · Tauri · TypeScript · React · Node.js                  │
-│  > Python · FastAPI · PostgreSQL · Docker · Azure · AI / LLM   │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-## ◈ Sobre mí
-
-Estudiante de Ingeniería de Sistemas y desarrollador de software. Construyo sistemas orientados a producción, desde aplicaciones de escritorio hasta plataformas web, procesamiento de datos e integraciones con inteligencia artificial.
-
-He desarrollado soluciones en diferentes contextos: un POS de escritorio utilizado en una tienda real, una plataforma de marketplace, una plataforma turística con recomendación basada en IA y sistemas de procesamiento de documentos fiscales.
-
-También participé como investigador de Nivel 1 en un grupo de investigación enfocado en IoT/ITS, trabajando en un sistema RAG/LLM sectorizado.
-
-> La disciplina convierte una idea de software en una solución que realmente puede usarse.
-
-## ◈ En qué construyo
-
-- **Arquitectura de software:** diseño por capas, módulos separados y patrones de servicios y repositorios.
-- **Aplicaciones de escritorio:** soluciones multiplataforma con Rust y Tauri.
-- **Desarrollo full-stack:** React, TypeScript, Node.js y FastAPI.
-- **Datos e IA aplicada:** RAG, routing semántico, integración de LLM y optimización de prompts.
-- **Producto:** autenticación MFA, pagos con Stripe, funciones en tiempo real y operación offline.
-
-## ◈ Tecnologías
+<h2 id="about" align="center">About</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,tauri,ts,js,react,nodejs,python,fastapi,postgres,sqlite,docker,azure,git,github,linux,vscode&perline=8" alt="Technology stack"/>
+Software developer and Systems Engineering student building production-oriented systems across multiple stacks: from a desktop POS in Rust, already in use at a real store, to a marketplace platform with payment processing and an AI-integrated recommendation engine.<br>
+Former Level 1 researcher in an IoT/ITS-focused IEEE research group, where I worked on a sectorized RAG/LLM system.<br>
+Planning graduate studies in Computer Engineering / Data Science in Europe (target: UPC Barcelona, 2027).
 </p>
 
-| Capa | Tecnologías |
-|---|---|
-| Escritorio | Rust, Tauri 2 |
-| Frontend | React, TypeScript, JavaScript |
-| Backend | Node.js, Express, Python, FastAPI |
-| Datos | PostgreSQL, SQL, SQLite |
-| Inteligencia artificial | RAG, LLM, FastAPI, modelos de recomendación |
-| Infraestructura | Docker, Azure, Linux, Git |
+---
 
-## ◈ Lo que construí
-
-### `01` CashFlow-POS
-
-Sistema de punto de venta multiplataforma y offline-first, utilizado en una tienda real.
-
-Incluye inventario con kardex, ventas, proveedores, cuentas por cobrar, caja, impresión de recibos y respaldos cifrados. Su backend aplica separación por handlers, servicios y repositorios.
-
-**Rust · Tauri 2 · React · TypeScript · PostgreSQL**
-
-### `02` BrandConnect
-
-Marketplace que conecta marcas y creadores de contenido.
-
-Implementa perfiles, chat en tiempo real, negociación, planes de suscripción y procesamiento de pagos con Stripe. También incluye autenticación MFA mediante TOTP.
-
-**React · Node.js · Express · PostgreSQL · Stripe**
-
-### `03` Tourism AI Platform
-
-Plataforma de recomendaciones turísticas con asistente basado en LLM y motor de puntuación personalizado.
-
-Optimicé el diseño de prompts para reducir el uso de tokens en un 44 % sin pérdida de calidad en las recomendaciones.
-
-**React · Node.js · Python · FastAPI · Machine Learning · LLM**
-
-### `04` DIAN Document Pipeline
-
-Pipeline ETL para documentos tributarios electrónicos colombianos.
-
-Automatiza autenticación, lectura y clasificación de XML/PDF y exportación estructurada a CSV.
-
-**Python · ETL · Document Processing · CSV**
-
-### `05` RAG/LLM Research Project
-
-Diseño sectorizado de RAG para un laboratorio enfocado en IoT/ITS.
-
-Incluye un router semántico que clasifica las consultas por dominio antes de recuperar contexto, mejorando la relevancia y reduciendo el contexto innecesario.
-
-**RAG · LLM · Semantic Routing · Edge AI**
-
-### `06` AgroGestor
-
-Sistema de gestión agrícola para una finca exportadora de ruscus.
-
-Desarrolla el seguimiento de camas de cultivo, siembras, cosechas, trazabilidad, monitoreo e integración con sensores IoT.
-
-**Rust · Tauri · React · TypeScript · PostgreSQL · IoT**
-
-## ◈ Experiencia e investigación
-
-- **Investigador de Nivel 1** — grupo de investigación IEEE enfocado en IoT/ITS.
-  - Diseño y desarrollo de un sistema RAG/LLM sectorizado.
-  - Clasificación semántica de consultas y optimización del contexto recuperado.
-
-## ◈ Formación
-
-| Estado | Formación |
-|---|---|
-| En curso | Ingeniería de Sistemas |
-| Completado | CS50x |
-| Completado | CS50R |
-| Completado | Data Analytics Bootcamp — MinTIC, 2025 |
-| En curso | CS50 SQL |
-| En curso | CS50 Python |
-| En curso | CS50 AI |
-| En curso | Microsoft Azure Fundamentals — AZ-900 |
-
-## ◈ Objetivo académico
-
-Planifico continuar estudios de posgrado en **Computer Engineering o Data Science en Europa**, con Universidad Politécnica de Cataluña como objetivo para 2027.
-
-## ◈ GitHub
+<h2 id="focus" align="center">Focus</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AndresContreras1034&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresContreras1034&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+System architecture: layered backend design, service/repository patterns, clean module separation<br>
+Applied AI: RAG pipelines, semantic routing, LLM integration, prompt optimization<br>
+Product development: auth (incl. MFA/TOTP), payments (Stripe), real-time features<br>
+Cross-platform desktop apps: Rust + Tauri
 </p>
+
+---
+
+<h2 id="projects" align="center">Selected Projects</h2>
+
+<table align="center">
+<thead>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Technologies</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td><strong>CashFlow-POS</strong></td>
+<td>
+Cross-platform desktop point-of-sale system, offline-first, in use at a real store. Inventory (with kardex), sales, supplier, debt, and cash management modules, receipt printing, encrypted backups and a layered backend architecture (handlers/services/repositories).
+</td>
+<td>Rust · Tauri 2 · React/TypeScript · PostgreSQL</td>
+</tr>
+
+<tr>
+<td><strong>BrandConnect</strong></td>
+<td>
+Marketplace connecting brands and content creators: profiles, real-time chat, negotiation, subscription plans, and Stripe payment processing with webhook handling. MFA via TOTP for account security.
+</td>
+<td>React · Node.js/Express · PostgreSQL · Stripe</td>
+</tr>
+
+<tr>
+<td><strong>Tourism AI Platform</strong></td>
+<td>
+Recommendation platform for tourism, combining an LLM-based assistant with a custom scoring engine and a trained ML recommendation model. Optimized prompt design to cut token usage by 44% without losing recommendation quality.
+</td>
+<td>React · Node.js · Python/FastAPI · LLM Integration</td>
+</tr>
+
+<tr>
+<td><strong>DIAN Document Pipeline</strong></td>
+<td>
+ETL pipeline for Colombian electronic tax documents: automated authentication, XML/PDF parsing and classification, and structured CSV export.
+</td>
+<td>Python · ETL · Document Processing</td>
+</tr>
+
+<tr>
+<td><strong>RAG/LLM Research Project (IoT/ITS)</strong></td>
+<td>
+Sectorized RAG design for an IoT/ITS lab, with a semantic router that classifies queries by domain before retrieval to reduce context and improve relevance. Developed during my time in the research group.
+</td>
+<td>RAG · LLM · Semantic Routing · Edge AI</td>
+</tr>
+
+<tr>
+<td><strong>Agrotech (in progress)</strong></td>
+<td>
+Farm management system for a ruscus export farm: cultivation bed tracking and IoT sensor integration for an internationally-sold crop.
+</td>
+<td>Rust · Tauri · IoT</td>
+</tr>
+
+</tbody>
+</table>
+
+---
+
+<h2 id="stack" align="center">Tech Stack</h2>
+
+<h3 align="center">Core</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndresContreras1034&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black" />
 </p>
 
-## ◈ Conectemos
+<h3 align="center">Tools & Platforms</h3>
 
 <p align="center">
-  Estoy abierto a colaborar en sistemas de software, aplicaciones multiplataforma, arquitecturas de datos y proyectos con IA aplicada.
+  <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
+
+---
+
+<h2 id="learning" align="center">Certifications</h2>
+
+<p align="center">
+Completed: CS50x · CS50R · Data Analytics Bootcamp (MinTIC, 2025)<br>
+In progress: CS50 SQL · CS50 Python · CS50 AI · Microsoft Azure Fundamentals (AZ-900)
+</p>
+
+---
+
+
+<h2 id="github-stats" align="center">GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0B1F33&height=120&section=footer" alt="Footer"/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=AndresContreras1034&show_icons=true&theme=tokyonight" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresContreras1034&layout=compact&theme=tokyonight" />
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F33,100:2563EB&height=100&section=header"/>
 </div>
