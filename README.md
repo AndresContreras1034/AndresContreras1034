@@ -35,8 +35,7 @@
 
 <p align="center">
 Software developer and Systems Engineering student building production-oriented systems across multiple stacks: from a desktop POS in Rust, already in use at a real store, to a marketplace platform with payment processing and an AI-integrated recommendation engine.<br>
-Former Level 1 researcher in an IoT/ITS-focused IEEE research group, where I worked on a sectorized RAG/LLM system.<br>
-Planning graduate studies in Computer Engineering / Data Science in Europe (target: UPC Barcelona, 2027).
+
 </p>
 
 ---
